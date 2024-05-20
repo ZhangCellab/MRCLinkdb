@@ -1,0 +1,37 @@
+Dendritic.cells-Dendritic.cells	Dendritic.cells-NK.cells	Dendritic.cells-T.cells	NK.cells-Dendritic.cells	NK.cells-NK.cells	NK.cells-T.cells	T.cells-Dendritic.cells	T.cells-NK.cells	T.cells-T.cells
+Deoxycorticosterone - NR3C2	0.01	1	0.99	0.01	1	0.99	0.01	1	0.99
+Aldosterone - NR3C2	0.01	1	0.99	0.01	1	0.99	0.01	1	0.99
+Butyric acid - FFAR3	0.83	0.73	0.01	0.97	0.94	0.01	0.81	0.78	0.01
+Cholesterol - CD36	0.01	1	1	0.01	1	1	0.01	1	1
+Cholesterol - SCARB1	0.01	1	1	0.01	1	1	0.01	1	1
+Epinephrine - ADRA2B	0.01	1	1	0.01	1	1	0.01	1	1
+Epinephrine - ADRB2	1	0.01	0.61	1	0.01	0.88	0.01	0.01	0.01
+Dopamine - COMT	0.98	1	0.01	0.99	1	0.01	0.01	1	0.01
+gamma-Aminobutyric acid - GABBR1	0.03	1	1	0.02	1	1	0.03	1	1
+Glycine - SLC16A10	0.95	0.93	0.31	0.93	0.41	0.04	0.31	0.04	0.07
+L-Tyrosine - GPR35	0.08	1	1	0.03	1	1	0.01	1	1
+L-Tyrosine - SLC16A10	0.95	0.93	0.31	0.93	0.41	0.04	0.31	0.04	0.07
+L-Phenylalanine - SLC16A10	0.95	0.93	0.31	0.93	0.41	0.04	0.31	0.04	0.07
+L-Dopa - SLC16A10	0.95	0.93	0.31	0.93	0.41	0.04	0.31	0.04	0.07
+Norepinephrine - ADRA2B	0.01	1	1	0.01	1	1	0.01	1	1
+Norepinephrine - ADRB2	1	0.01	0.61	1	0.01	0.88	0.01	0.01	0.01
+Norepinephrine - COMT	0.98	1	0.01	0.99	1	0.01	0.01	1	0.01
+Propionic acid - FFAR3	0.82	0.82	0.01	0.95	0.93	0.01	0.98	0.98	0.01
+Uridine diphosphate glucose - P2RY14	0.01	1	1	0.01	1	1	0.01	1	1
+Uridine 5'-diphosphate - P2RY14	0.01	1	1	0.01	1	1	0.01	1	1
+Uridine diphosphategalactose - P2RY14	0.01	1	1	0.01	1	1	0.01	1	1
+Adenosine triphosphate - P2RY12	0.01	1	1	0.01	1	1	0.01	1	1
+Histamine - HRH2	0.01	1	1	0.01	1	1	0.01	1	1
+Acetylcholine - CHRNE	0.04	1	0.16	0.04	1	0.16	0.04	1	0.16
+L-Tryptophan - SLC16A10	0.95	0.93	0.31	0.93	0.41	0.04	0.31	0.04	0.07
+Farnesyl pyrophosphate - LPAR2	0.96	1	0.01	0.96	1	0.01	0.96	1	0.01
+Lanosterol - HRH2	0.01	1	1	0.01	1	1	0.01	1	1
+ADP - P2RY12	0.01	1	1	0.01	1	1	0.01	1	1
+Prostaglandin D2 - PTGER2	1	0.01	0.29	1	0.01	0.29	1	0.01	0.29
+Prostaglandin D2 - PTGDR	1	0.01	0.99	1	0.01	0.99	1	0.01	0.99
+Corticosterone - NR3C2	0.01	1	0.99	0.01	1	0.99	0.01	1	0.99
+Heme - TLR4	0.01	1	1	0.01	1	1	0.01	1	1
+Heme - LRP1	0.01	1	1	0.01	1	1	0.01	1	1
+Hydrogen sulfide - CD36	0.01	1	1	0.01	1	1	0.01	1	1
+25-Hydroxycholesterol - ABCA1	0.01	1	1	0.01	1	1	0.01	1	1
+Iron - TFRC	0.59	1	0.01	0.59	1	0.01	0.59	1	0.01

@@ -1,0 +1,1615 @@
+HMDB_ID	NAME	GENE_NAME	enzyme_p_s
+HMDB0000012	Deoxyuridine	Cda	p
+HMDB0000014	Deoxycytidine	Nt5e	p
+HMDB0000014	Deoxycytidine	Nt5c1b	p
+HMDB0000014	Deoxycytidine	Nt5c1a	p
+HMDB0000014	Deoxycytidine	Nt5c	p
+HMDB0000014	Deoxycytidine	Nt5m	p
+HMDB0000014	Deoxycytidine	Nt5c2	p
+HMDB0000014	Deoxycytidine	Cda	s
+HMDB0000022	3-Methoxytyramine	Comt	p
+HMDB0000031	Androsterone	Akr1c6	s
+HMDB0000034	Adenine	Hprt1	p
+HMDB0000037	Aldosterone	Cyp11b2	p
+HMDB0000037	Aldosterone	Cyp11b1	p
+HMDB0000043	Betaine	Aldh7a1	p
+HMDB0000043	Betaine	Bhmt	s
+HMDB0000043	Betaine	Bhmt2	s
+HMDB0000045	Adenosine monophosphate	Nt5e	s
+HMDB0000045	Adenosine monophosphate	Nt5c1b	s
+HMDB0000045	Adenosine monophosphate	Nt5c1a	s
+HMDB0000045	Adenosine monophosphate	Nt5c	s
+HMDB0000045	Adenosine monophosphate	Nt5m	s
+HMDB0000045	Adenosine monophosphate	Entpd1	p
+HMDB0000045	Adenosine monophosphate	Entpd3	p
+HMDB0000045	Adenosine monophosphate	Enpp1	p
+HMDB0000045	Adenosine monophosphate	Enpp3	p
+HMDB0000045	Adenosine monophosphate	Bpnt1	p
+HMDB0000045	Adenosine monophosphate	Adpgk	p
+HMDB0000045	Adenosine monophosphate	Hprt1	s
+HMDB0000045	Adenosine monophosphate	Prps1l1	p
+HMDB0000045	Adenosine monophosphate	Acsl4	p
+HMDB0000045	Adenosine monophosphate	Pde1a	p
+HMDB0000045	Adenosine monophosphate	Ube2d1	p
+HMDB0000045	Adenosine monophosphate	Pde8a	p
+HMDB0000045	Adenosine monophosphate	Acsl1	p
+HMDB0000050	Adenosine	Nt5e	p
+HMDB0000050	Adenosine	Nt5c1b	p
+HMDB0000050	Adenosine	Nt5c1a	p
+HMDB0000050	Adenosine	Nt5c	p
+HMDB0000050	Adenosine	Nt5m	p
+HMDB0000050	Adenosine	Adk	s
+HMDB0000050	Adenosine	Ahcyl2	p
+HMDB0000050	Adenosine	Ahcy	p
+HMDB0000050	Adenosine	Ahcyl1	p
+HMDB0000050	Adenosine	Nt5c2	p
+HMDB0000053	Androstenedione	Akr1c18	p
+HMDB0000053	Androstenedione	Cyp11b2	s
+HMDB0000053	Androstenedione	Hsd17b2	p
+HMDB0000053	Androstenedione	Hsd17b8	p
+HMDB0000053	Androstenedione	Cyp17a1	p
+HMDB0000053	Androstenedione	Hsd17b6	p
+HMDB0000053	Androstenedione	Hsd3b2	p
+HMDB0000053	Androstenedione	Hsd3b1	p
+HMDB0000053	Androstenedione	Cyp11b1	s
+HMDB0000056	beta-Alanine	Aldh9a1	p
+HMDB0000056	beta-Alanine	Aldh3a1	p
+HMDB0000056	beta-Alanine	Aldh7a1	p
+HMDB0000056	beta-Alanine	Aldh1a3	p
+HMDB0000056	beta-Alanine	Aldh2	p
+HMDB0000056	beta-Alanine	Aldh3a2	p
+HMDB0000056	beta-Alanine	Aldh1b1	p
+HMDB0000056	beta-Alanine	Aldh3b3	p
+HMDB0000056	beta-Alanine	Aldh3b1	p
+HMDB0000056	beta-Alanine	Upb1	p
+HMDB0000056	beta-Alanine	Carns1	s
+HMDB0000058	Cyclic AMP	Pde1a	s
+HMDB0000058	Cyclic AMP	Pde8a	s
+HMDB0000058	Cyclic AMP	Pde7a	s
+HMDB0000058	Cyclic AMP	Pde3a	s
+HMDB0000058	Cyclic AMP	Pde10a	s
+HMDB0000058	Cyclic AMP	Pde1c	s
+HMDB0000058	Cyclic AMP	Pde4b	s
+HMDB0000058	Cyclic AMP	Pde7b	s
+HMDB0000058	Cyclic AMP	Pde2a	s
+HMDB0000058	Cyclic AMP	Pde8b	s
+HMDB0000058	Cyclic AMP	Pde4c	s
+HMDB0000058	Cyclic AMP	Pde4d	s
+HMDB0000058	Cyclic AMP	Pde4a	s
+HMDB0000058	Cyclic AMP	Adcy7	p
+HMDB0000058	Cyclic AMP	Adcy4	p
+HMDB0000058	Cyclic AMP	Adcy6	p
+HMDB0000058	Cyclic AMP	Adcy5	p
+HMDB0000058	Cyclic AMP	Adcy8	p
+HMDB0000058	Cyclic AMP	Adcy9	p
+HMDB0000058	Cyclic AMP	Adcy3	p
+HMDB0000058	Cyclic AMP	Adcy1	p
+HMDB0000058	Cyclic AMP	Adcy2	p
+HMDB0000062	L-Carnitine	Bbox1	p
+HMDB0000063	Cortisol	Cyp11b2	p
+HMDB0000063	Cortisol	Hsd3b2	s
+HMDB0000063	Cortisol	Hsd3b1	s
+HMDB0000063	Cortisol	Cyp11b1	p
+HMDB0000063	Cortisol	Cyp21	p
+HMDB0000064	Creatine	Gamt	p
+HMDB0000067	Cholesterol	Cel	p
+HMDB0000067	Cholesterol	Cyp7a1	s
+HMDB0000067	Cholesterol	Cyp11a1	s
+HMDB0000067	Cholesterol	Cyp27a1	s
+HMDB0000067	Cholesterol	Dhcr24	s
+HMDB0000067	Cholesterol	Ch25h	s
+HMDB0000067	Cholesterol	Cyp46a1	s
+HMDB0000068	Epinephrine	Maob	s
+HMDB0000068	Epinephrine	Maoa	s
+HMDB0000068	Epinephrine	Comt	s
+HMDB0000068	Epinephrine	Pnmt	p
+HMDB0000073	Dopamine	Tyr	p
+HMDB0000073	Dopamine	Maob	s
+HMDB0000073	Dopamine	Maoa	s
+HMDB0000073	Dopamine	Dbh	s
+HMDB0000073	Dopamine	Comt	s
+HMDB0000073	Dopamine	Aoc3	s
+HMDB0000073	Dopamine	Aoc2	s
+HMDB0000077	Dehydroepiandrosterone	Cyp7a1	s
+HMDB0000077	Dehydroepiandrosterone	Cyp17a1	p
+HMDB0000077	Dehydroepiandrosterone	Hsd3b2	s
+HMDB0000077	Dehydroepiandrosterone	Hsd3b1	s
+HMDB0000085	Deoxyguanosine	Nt5e	p
+HMDB0000085	Deoxyguanosine	Nt5c1b	p
+HMDB0000085	Deoxyguanosine	Nt5c1a	p
+HMDB0000085	Deoxyguanosine	Nt5c	p
+HMDB0000085	Deoxyguanosine	Nt5m	p
+HMDB0000085	Deoxyguanosine	Nt5c2	p
+HMDB0000089	Cytidine	Nt5e	p
+HMDB0000089	Cytidine	Nt5c1b	p
+HMDB0000089	Cytidine	Nt5c1a	p
+HMDB0000089	Cytidine	Nt5c	p
+HMDB0000089	Cytidine	Nt5m	p
+HMDB0000089	Cytidine	Uck1	s
+HMDB0000089	Cytidine	Uck2	s
+HMDB0000089	Cytidine	Nt5c2	p
+HMDB0000089	Cytidine	Cda	s
+HMDB0000089	Cytidine	Apobec3	s
+HMDB0000089	Cytidine	Aicda	s
+HMDB0000094	Citric acid	Aco1	s
+HMDB0000094	Citric acid	Rimklb	s
+HMDB0000097	Choline	Pld1	p
+HMDB0000097	Choline	Chdh	s
+HMDB0000097	Choline	Phospho1	p
+HMDB0000097	Choline	Gpcpd1	p
+HMDB0000101	Deoxyadenosine	Nt5e	p
+HMDB0000101	Deoxyadenosine	Nt5c1b	p
+HMDB0000101	Deoxyadenosine	Nt5c1a	p
+HMDB0000101	Deoxyadenosine	Nt5c	p
+HMDB0000101	Deoxyadenosine	Nt5m	p
+HMDB0000101	Deoxyadenosine	Nt5c2	p
+HMDB0000108	Ethanol	Adh4	s
+HMDB0000108	Ethanol	Adh5	s
+HMDB0000108	Ethanol	Adh1	s
+HMDB0000108	Ethanol	Adh7	s
+HMDB0000108	Ethanol	Adh1	s
+HMDB0000108	Ethanol	Adh6b	s
+HMDB0000108	Ethanol	Adh1	s
+HMDB0000112	gamma-Aminobutyric acid	Aldh9a1	p
+HMDB0000112	gamma-Aminobutyric acid	Aldh7a1	p
+HMDB0000112	gamma-Aminobutyric acid	Aldh2	p
+HMDB0000112	gamma-Aminobutyric acid	Aldh3a2	p
+HMDB0000112	gamma-Aminobutyric acid	Aldh1b1	p
+HMDB0000112	gamma-Aminobutyric acid	Carns1	s
+HMDB0000121	Folic acid	Dhfr	p
+HMDB0000122	D-Glucose	H6pd	s
+HMDB0000122	D-Glucose	Adpgk	s
+HMDB0000122	D-Glucose	B4galt2	s
+HMDB0000122	D-Glucose	B4galt1	s
+HMDB0000122	D-Glucose	Hkdc1	s
+HMDB0000123	Glycine	Alas2	s
+HMDB0000123	Glycine	Alas1	s
+HMDB0000123	Glycine	Pipox	p
+HMDB0000123	Glycine	Dao	s
+HMDB0000123	Glycine	Gnmt	s
+HMDB0000123	Glycine	Anpep	p
+HMDB0000123	Glycine	Sardh	p
+HMDB0000123	Glycine	Lap3	p
+HMDB0000131	Glycerol	Akr1b1	s
+HMDB0000131	Glycerol	Lipe	p
+HMDB0000131	Glycerol	Abhd12	p
+HMDB0000131	Glycerol	Abhd6	p
+HMDB0000131	Glycerol	Akr1b8	s
+HMDB0000132	Guanine	Hprt1	p
+HMDB0000132	Guanine	Gda	s
+HMDB0000132	Guanine	Qtrt1	p
+HMDB0000133	Guanosine	Nt5e	p
+HMDB0000133	Guanosine	Nt5c1b	p
+HMDB0000133	Guanosine	Nt5c1a	p
+HMDB0000133	Guanosine	Nt5c	p
+HMDB0000133	Guanosine	Nt5m	p
+HMDB0000133	Guanosine	Nt5c2	p
+HMDB0000134	Fumaric acid	Sdhc	p
+HMDB0000134	Fumaric acid	Sdha	p
+HMDB0000134	Fumaric acid	Sdhd	p
+HMDB0000134	Fumaric acid	Sdhb	p
+HMDB0000134	Fumaric acid	Fahd1	p
+HMDB0000143	D-Galactose	Hkdc1	s
+HMDB0000145	Estrone	Hsd17b2	p
+HMDB0000145	Estrone	Hsd17b8	p
+HMDB0000145	Estrone	Hsd17b11	p
+HMDB0000145	Estrone	Hsd17b1	p
+HMDB0000145	Estrone	Hsd17b7	p
+HMDB0000148	L-Glutamic acid	Aldh4a1	p
+HMDB0000148	L-Glutamic acid	Ppat	s
+HMDB0000148	L-Glutamic acid	Gmps	p
+HMDB0000148	L-Glutamic acid	Glud1	s
+HMDB0000148	L-Glutamic acid	Ctps1	p
+HMDB0000148	L-Glutamic acid	Glud1	s
+HMDB0000148	L-Glutamic acid	Agxt	p
+HMDB0000148	L-Glutamic acid	Aass	p
+HMDB0000151	Estradiol	Hsd17b2	s
+HMDB0000151	Estradiol	Hsd17b8	s
+HMDB0000151	Estradiol	Hsd17b11	s
+HMDB0000151	Estradiol	Hsd17b1	s
+HMDB0000151	Estradiol	Hsd17b7	s
+HMDB0000153	Estriol	Hsd17b2	s
+HMDB0000153	Estriol	Hsd17b8	s
+HMDB0000153	Estriol	Hsd17b1	s
+HMDB0000153	Estriol	Hsd17b7	s
+HMDB0000153	Estriol	Hsd17b6	s
+HMDB0000153	Estriol	Hsd17b12	s
+HMDB0000156	Malic acid	Me1	s
+HMDB0000156	Malic acid	Mdh2	s
+HMDB0000156	Malic acid	Me3	s
+HMDB0000156	Malic acid	Mdh1	s
+HMDB0000156	Malic acid	Me2	s
+HMDB0000157	Hypoxanthine	Xdh	s
+HMDB0000157	Hypoxanthine	Hprt1	p
+HMDB0000158	L-Tyrosine	Tyr	s
+HMDB0000158	L-Tyrosine	Tpo	p
+HMDB0000158	L-Tyrosine	Il4i1	s
+HMDB0000158	L-Tyrosine	Iyd	s
+HMDB0000158	L-Tyrosine	Ttl	s
+HMDB0000159	L-Phenylalanine	Ace2	p
+HMDB0000159	L-Phenylalanine	Il4i1	s
+HMDB0000169	D-Mannose	Hkdc1	s
+HMDB0000172	L-Isoleucine	Il4i1	s
+HMDB0000177	L-Histidine	Carns1	s
+HMDB0000177	L-Histidine	Hemk1	s
+HMDB0000177	L-Histidine	Mettl2	s
+HMDB0000177	L-Histidine	Mettl6	s
+HMDB0000177	L-Histidine	Bud23	s
+HMDB0000182	L-Lysine	Aass	p
+HMDB0000182	L-Lysine	Carns1	s
+HMDB0000187	L-Serine	Cbs	s
+HMDB0000187	L-Serine	Agxt	s
+HMDB0000187	L-Serine	Psph	p
+HMDB0000190	L-Lactic acid	Ldhb	s
+HMDB0000190	L-Lactic acid	Ldhc	s
+HMDB0000190	L-Lactic acid	Ldha	s
+HMDB0000190	L-Lactic acid	Ldhal6b	s
+HMDB0000191	L-Aspartic acid	Adss2	s
+HMDB0000191	L-Aspartic acid	Adss1	s
+HMDB0000191	L-Aspartic acid	Cad	s
+HMDB0000191	L-Aspartic acid	Il4i1	s
+HMDB0000191	L-Aspartic acid	Aspdh	s
+HMDB0000191	L-Aspartic acid	Nat8l	s
+HMDB0000195	Inosine	Nt5e	p
+HMDB0000195	Inosine	Nt5c1b	p
+HMDB0000195	Inosine	Nt5c1a	p
+HMDB0000195	Inosine	Nt5c	p
+HMDB0000195	Inosine	Nt5m	p
+HMDB0000195	Inosine	Nt5c2	p
+HMDB0000208	Oxoglutaric acid	Phyh	s
+HMDB0000208	Oxoglutaric acid	Aldh2	p
+HMDB0000208	Oxoglutaric acid	Aldh3a2	p
+HMDB0000208	Oxoglutaric acid	Aldh1b1	p
+HMDB0000208	Oxoglutaric acid	Bbox1	s
+HMDB0000208	Oxoglutaric acid	Plod1	s
+HMDB0000208	Oxoglutaric acid	Plod2	s
+HMDB0000208	Oxoglutaric acid	Plod3	s
+HMDB0000208	Oxoglutaric acid	Glud1	p
+HMDB0000208	Oxoglutaric acid	Glud1	p
+HMDB0000208	Oxoglutaric acid	Agxt	s
+HMDB0000208	Oxoglutaric acid	Aass	p
+HMDB0000208	Oxoglutaric acid	Idh2	p
+HMDB0000208	Oxoglutaric acid	Idh3b	p
+HMDB0000208	Oxoglutaric acid	Idh1	p
+HMDB0000208	Oxoglutaric acid	Idh3a	p
+HMDB0000208	Oxoglutaric acid	Idh3g	p
+HMDB0000208	Oxoglutaric acid	Phgdh	p
+HMDB0000208	Oxoglutaric acid	Asph	s
+HMDB0000208	Oxoglutaric acid	Hif1an	s
+HMDB0000208	Oxoglutaric acid	D2hgdh	p
+HMDB0000208	Oxoglutaric acid	L2hgdh	p
+HMDB0000208	Oxoglutaric acid	Tmlhe	s
+HMDB0000208	Oxoglutaric acid	Adhfe1	s
+HMDB0000208	Oxoglutaric acid	Alkbh2	s
+HMDB0000208	Oxoglutaric acid	P3h1	s
+HMDB0000208	Oxoglutaric acid	P3h2	s
+HMDB0000208	Oxoglutaric acid	P3h3	s
+HMDB0000214	Ornithine	Arg1	p
+HMDB0000214	Ornithine	Acy1	p
+HMDB0000214	Ornithine	Arg2	p
+HMDB0000216	Norepinephrine	Maob	s
+HMDB0000216	Norepinephrine	Maoa	s
+HMDB0000216	Norepinephrine	Dbh	p
+HMDB0000216	Norepinephrine	Comt	s
+HMDB0000216	Norepinephrine	Pnmt	s
+HMDB0000220	Palmitic acid	Acsl4	s
+HMDB0000220	Palmitic acid	Acsl1	s
+HMDB0000220	Palmitic acid	Acsl6	s
+HMDB0000220	Palmitic acid	Acsl5	s
+HMDB0000220	Palmitic acid	Acsl3	s
+HMDB0000234	Testosterone	Akr1c18	s
+HMDB0000234	Testosterone	Hsd17b2	s
+HMDB0000234	Testosterone	Hsd17b8	s
+HMDB0000243	Pyruvic acid	Me1	p
+HMDB0000243	Pyruvic acid	Me3	p
+HMDB0000243	Pyruvic acid	Me2	p
+HMDB0000243	Pyruvic acid	Tst	p
+HMDB0000243	Pyruvic acid	Ldhb	p
+HMDB0000243	Pyruvic acid	Ldhc	p
+HMDB0000243	Pyruvic acid	Ldha	p
+HMDB0000243	Pyruvic acid	Ldhal6b	p
+HMDB0000243	Pyruvic acid	Ldhd	p
+HMDB0000244	Riboflavin	Acp5	p
+HMDB0000244	Riboflavin	Blvrb	p
+HMDB0000244	Riboflavin	Rfk	s
+HMDB0000248	Thyroxine	Tpo	p
+HMDB0000248	Thyroxine	Sult6b1	s
+HMDB0000252	Sphingosine	Plpp2	p
+HMDB0000252	Sphingosine	Plpp1	p
+HMDB0000252	Sphingosine	Plpp3	p
+HMDB0000252	Sphingosine	Sphk1	s
+HMDB0000252	Sphingosine	Sphk2	s
+HMDB0000252	Sphingosine	Cers5	s
+HMDB0000254	Succinic acid	Sdhc	s
+HMDB0000254	Succinic acid	Sdha	s
+HMDB0000254	Succinic acid	Sdhd	s
+HMDB0000254	Succinic acid	Sdhb	s
+HMDB0000254	Succinic acid	Aldh5a1	p
+HMDB0000254	Succinic acid	Phyh	p
+HMDB0000254	Succinic acid	Bbox1	p
+HMDB0000254	Succinic acid	Plod1	p
+HMDB0000254	Succinic acid	Plod2	p
+HMDB0000254	Succinic acid	Plod3	p
+HMDB0000254	Succinic acid	Suclg1	s
+HMDB0000254	Succinic acid	Suclg2	s
+HMDB0000254	Succinic acid	Sucla2	s
+HMDB0000254	Succinic acid	Asph	p
+HMDB0000254	Succinic acid	Hif1an	p
+HMDB0000254	Succinic acid	Tmlhe	p
+HMDB0000254	Succinic acid	Alkbh2	p
+HMDB0000254	Succinic acid	P3h1	p
+HMDB0000254	Succinic acid	P3h2	p
+HMDB0000254	Succinic acid	P3h3	p
+HMDB0000254	Succinic acid	Alkbh1	p
+HMDB0000254	Succinic acid	Kdm8	p
+HMDB0000254	Succinic acid	Riox2	p
+HMDB0000254	Succinic acid	Riox1	p
+HMDB0000254	Succinic acid	Phf8	p
+HMDB0000254	Succinic acid	Tet1	p
+HMDB0000254	Succinic acid	Tet2	p
+HMDB0000254	Succinic acid	Tet3	p
+HMDB0000259	Serotonin	Maob	s
+HMDB0000259	Serotonin	Maoa	s
+HMDB0000259	Serotonin	Inmt	s
+HMDB0000259	Serotonin	Ido1	s
+HMDB0000259	Serotonin	Ido2	s
+HMDB0000259	Serotonin	Hemk1	s
+HMDB0000259	Serotonin	Mettl2	s
+HMDB0000259	Serotonin	Mettl6	s
+HMDB0000259	Serotonin	Bud23	s
+HMDB0000262	Thymine	Dpyd	p
+HMDB0000265	Liothyronine	Tpo	p
+HMDB0000277	Sphingosine 1-phosphate	Plpp2	s
+HMDB0000277	Sphingosine 1-phosphate	Plpp1	s
+HMDB0000277	Sphingosine 1-phosphate	Plpp3	s
+HMDB0000277	Sphingosine 1-phosphate	Sphk1	p
+HMDB0000277	Sphingosine 1-phosphate	Sphk2	p
+HMDB0000285	Uridine triphosphate	Entpd1	s
+HMDB0000285	Uridine triphosphate	Entpd3	s
+HMDB0000285	Uridine triphosphate	Uck1	s
+HMDB0000285	Uridine triphosphate	Nme4	p
+HMDB0000285	Uridine triphosphate	Nme1	p
+HMDB0000285	Uridine triphosphate	Nme7	p
+HMDB0000285	Uridine triphosphate	Nme2	p
+HMDB0000285	Uridine triphosphate	Nme3	p
+HMDB0000285	Uridine triphosphate	Nme6	p
+HMDB0000285	Uridine triphosphate	Itpa	s
+HMDB0000285	Uridine triphosphate	Nudt2	p
+HMDB0000285	Uridine triphosphate	Ctps1	s
+HMDB0000285	Uridine triphosphate	Pfkp	s
+HMDB0000285	Uridine triphosphate	Polr2b	s
+HMDB0000285	Uridine triphosphate	Polr2a	s
+HMDB0000285	Uridine triphosphate	Pfkl	s
+HMDB0000285	Uridine triphosphate	Polr3k	s
+HMDB0000285	Uridine triphosphate	Pfkm	s
+HMDB0000285	Uridine triphosphate	Uck2	s
+HMDB0000285	Uridine triphosphate	Entpd8	s
+HMDB0000285	Uridine triphosphate	Nme5	p
+HMDB0000285	Uridine triphosphate	Polr1h	s
+HMDB0000285	Uridine triphosphate	Polr1f	s
+HMDB0000285	Uridine triphosphate	Polr2e	s
+HMDB0000285	Uridine triphosphate	Polr2f	s
+HMDB0000285	Uridine triphosphate	Polr2h	s
+HMDB0000285	Uridine triphosphate	Polr2k	s
+HMDB0000286	Uridine diphosphate glucose	Enpp1	s
+HMDB0000286	Uridine diphosphate glucose	Enpp3	s
+HMDB0000286	Uridine diphosphate glucose	Plod3	s
+HMDB0000286	Uridine diphosphate glucose	Gale	s
+HMDB0000286	Uridine diphosphate glucose	Ugdh	s
+HMDB0000286	Uridine diphosphate glucose	Galt	s
+HMDB0000286	Uridine diphosphate glucose	Gyg1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pomgnt1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Eogt	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt3	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt4	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pomgnt2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat4c	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat5b	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Uap1l1	p
+HMDB0000292	Xanthine	Hprt1	p
+HMDB0000292	Xanthine	Gda	p
+HMDB0000294	Urea	Arg1	p
+HMDB0000294	Urea	Arg2	p
+HMDB0000294	Urea	Agmat	p
+HMDB0000295	Uridine 5'-diphosphate	Cmpk1	p
+HMDB0000295	Uridine 5'-diphosphate	Cant1	s
+HMDB0000295	Uridine 5'-diphosphate	Uck1	p
+HMDB0000295	Uridine 5'-diphosphate	Nme4	s
+HMDB0000295	Uridine 5'-diphosphate	Nme1	s
+HMDB0000295	Uridine 5'-diphosphate	Nme7	s
+HMDB0000295	Uridine 5'-diphosphate	Nme2	s
+HMDB0000295	Uridine 5'-diphosphate	Nme3	s
+HMDB0000295	Uridine 5'-diphosphate	Nme6	s
+HMDB0000295	Uridine 5'-diphosphate	B4galt2	p
+HMDB0000295	Uridine 5'-diphosphate	B4galt1	p
+HMDB0000295	Uridine 5'-diphosphate	Plod3	p
+HMDB0000295	Uridine 5'-diphosphate	Pfkp	p
+HMDB0000295	Uridine 5'-diphosphate	Pfkl	p
+HMDB0000295	Uridine 5'-diphosphate	Pfkm	p
+HMDB0000295	Uridine 5'-diphosphate	Entpd4	s
+HMDB0000295	Uridine 5'-diphosphate	Entpd6	s
+HMDB0000295	Uridine 5'-diphosphate	Entpd5	s
+HMDB0000295	Uridine 5'-diphosphate	B3gat3	p
+HMDB0000295	Uridine 5'-diphosphate	B3gat2	p
+HMDB0000296	Uridine	Nt5e	p
+HMDB0000296	Uridine	Nt5c1b	p
+HMDB0000296	Uridine	Nt5c1a	p
+HMDB0000296	Uridine	Nt5c	p
+HMDB0000296	Uridine	Nt5m	p
+HMDB0000296	Uridine	Uck1	s
+HMDB0000296	Uridine	Uck2	s
+HMDB0000296	Uridine	Nt5c2	p
+HMDB0000296	Uridine	Cda	p
+HMDB0000296	Uridine	Apobec3	p
+HMDB0000296	Uridine	Aicda	p
+HMDB0000300	Uracil	Dpyd	p
+HMDB0000302	Uridine diphosphategalactose	B4galt2	s
+HMDB0000302	Uridine diphosphategalactose	B4galt1	s
+HMDB0000302	Uridine diphosphategalactose	Plod3	s
+HMDB0000302	Uridine diphosphategalactose	Gale	p
+HMDB0000302	Uridine diphosphategalactose	B4galt3	s
+HMDB0000302	Uridine diphosphategalactose	B4galt4	s
+HMDB0000302	Uridine diphosphategalactose	Galt	p
+HMDB0000302	Uridine diphosphategalactose	Abo	s
+HMDB0000302	Uridine diphosphategalactose	B4galt7	s
+HMDB0000302	Uridine diphosphategalactose	B3galt6	s
+HMDB0000302	Uridine diphosphategalactose	C1galt1	s
+HMDB0000302	Uridine diphosphategalactose	B4galt6	s
+HMDB0000302	Uridine diphosphategalactose	Colgalt1	s
+HMDB0000302	Uridine diphosphategalactose	Colgalt2	s
+HMDB0000305	Vitamin A	Adh4	s
+HMDB0000305	Vitamin A	Adh5	s
+HMDB0000305	Vitamin A	Adh1	s
+HMDB0000305	Vitamin A	Adh7	s
+HMDB0000305	Vitamin A	Adh1	s
+HMDB0000305	Vitamin A	Adh6b	s
+HMDB0000305	Vitamin A	Adh1	s
+HMDB0000305	Vitamin A	Hsd17b6	s
+HMDB0000305	Vitamin A	Retsat	p
+HMDB0000305	Vitamin A	Sdr16c5	s
+HMDB0000306	Tyramine	Tyr	s
+HMDB0000306	Tyramine	Maob	s
+HMDB0000306	Tyramine	Maoa	s
+HMDB0000306	Tyramine	Aoc3	s
+HMDB0000306	Tyramine	Aoc2	s
+HMDB0000338	2-Hydroxyestradiol	Comt	s
+HMDB0000517	L-Arginine	Arg1	s
+HMDB0000517	L-Arginine	Nos2	s
+HMDB0000517	L-Arginine	Nos1	s
+HMDB0000517	L-Arginine	Nos3	s
+HMDB0000517	L-Arginine	Arg2	s
+HMDB0000517	L-Arginine	Carns1	s
+HMDB0000538	Adenosine triphosphate	Cmpk1	s
+HMDB0000538	Adenosine triphosphate	Acacb	s
+HMDB0000538	Adenosine triphosphate	Pcx	s
+HMDB0000538	Adenosine triphosphate	Acaca	s
+HMDB0000538	Adenosine triphosphate	Entpd1	s
+HMDB0000538	Adenosine triphosphate	Entpd3	s
+HMDB0000538	Adenosine triphosphate	Uck1	s
+HMDB0000538	Adenosine triphosphate	Nmnat1	s
+HMDB0000538	Adenosine triphosphate	Nmnat3	s
+HMDB0000538	Adenosine triphosphate	Nmnat2	s
+HMDB0000561	beta-Carotene	Bco1	s
+HMDB0000561	beta-Carotene	Bco2	s
+HMDB0000574	L-Cysteine	Anpep	p
+HMDB0000574	L-Cysteine	Cbs	p
+HMDB0000574	L-Cysteine	Lap3	p
+HMDB0000574	L-Cysteine	Cdo1	s
+HMDB0000574	L-Cysteine	Nfs1	s
+HMDB0000574	L-Cysteine	Cars2	s
+HMDB0000574	L-Cysteine	Pcyox1	p
+HMDB0000641	L-Glutamine	Ppat	p
+HMDB0000641	L-Glutamine	Gmps	s
+HMDB0000641	L-Glutamine	Ctps1	s
+HMDB0000641	L-Glutamine	Nadsyn1	s
+HMDB0000641	L-Glutamine	Cad	s
+HMDB0000641	L-Glutamine	Gatc	s
+HMDB0000660	D-Fructose	Sord	p
+HMDB0000660	D-Fructose	Hkdc1	s
+HMDB0000660	D-Fructose	Mtmr1	p
+HMDB0000660	D-Fructose	Mtmr2	p
+HMDB0000660	D-Fructose	Mtmr6	p
+HMDB0000660	D-Fructose	Mtmr7	p
+HMDB0000673	Linoleic acid	Pla2g5	p
+HMDB0000673	Linoleic acid	Pla2g2f	p
+HMDB0000673	Linoleic acid	Pla2g4a	p
+HMDB0000673	Linoleic acid	Pla2g1b	p
+HMDB0000673	Linoleic acid	Pla2g12b	p
+HMDB0000673	Linoleic acid	Pla2g10	p
+HMDB0000673	Linoleic acid	Pla2g2e	p
+HMDB0000673	Linoleic acid	Pla2g12a	p
+HMDB0000673	Linoleic acid	Pla2g6	p
+HMDB0000673	Linoleic acid	Pla2g2a	p
+HMDB0000673	Linoleic acid	Pla2g2d	p
+HMDB0000673	Linoleic acid	Pla2g4c	p
+HMDB0000673	Linoleic acid	Pla2g3	p
+HMDB0000673	Linoleic acid	Alox15	s
+HMDB0000673	Linoleic acid	Plb1	p
+HMDB0000673	Linoleic acid	Pla2g4d	p
+HMDB0000673	Linoleic acid	Pla2g4e	p
+HMDB0000673	Linoleic acid	Pla2g4f	p
+HMDB0000673	Linoleic acid	Pla2g4b	p
+HMDB0000696	L-Methionine	Mtr	p
+HMDB0000696	L-Methionine	Bhmt	p
+HMDB0000696	L-Methionine	Lias	p
+HMDB0000696	L-Methionine	Mat2b	p
+HMDB0000696	L-Methionine	Bhmt2	p
+HMDB0000696	L-Methionine	Il4i1	s
+HMDB0000761	Lithocholic acid	Cyp3a13	s
+HMDB0000870	Histamine	Aoc1	s
+HMDB0000870	Histamine	Hnmt	s
+HMDB0000929	L-Tryptophan	Ido1	s
+HMDB0000929	L-Tryptophan	Tdo2	s
+HMDB0000929	L-Tryptophan	Ido2	s
+HMDB0000929	L-Tryptophan	Il4i1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugdh	p
+HMDB0000935	Uridine diphosphate glucuronic acid	B3gat3	s
+HMDB0000935	Uridine diphosphate glucuronic acid	B3gat2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	B3gat1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Chsy3	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Chpf	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Chsy1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Has1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Has3	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Has2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Uxs1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt3a2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt3a2	s
+HMDB0000961	Farnesyl pyrophosphate	Fdft1	s
+HMDB0000961	Farnesyl pyrophosphate	Cox10	s
+HMDB0000961	Farnesyl pyrophosphate	Pdss2	s
+HMDB0000961	Farnesyl pyrophosphate	Pdss1	s
+HMDB0000990	Acetaldehyde	Aldh9a1	s
+HMDB0000990	Acetaldehyde	Aldh3a1	s
+HMDB0000990	Acetaldehyde	Aldh7a1	s
+HMDB0000990	Acetaldehyde	Aldh1a3	s
+HMDB0000990	Acetaldehyde	Aldh2	s
+HMDB0000990	Acetaldehyde	Aldh3a2	s
+HMDB0000990	Acetaldehyde	Aldh1b1	s
+HMDB0000990	Acetaldehyde	Pts	p
+HMDB0000990	Acetaldehyde	Adh4	p
+HMDB0000990	Acetaldehyde	Aldh3b3	s
+HMDB0000990	Acetaldehyde	Aldh3b1	s
+HMDB0000990	Acetaldehyde	Adh5	p
+HMDB0000990	Acetaldehyde	Adh1	p
+HMDB0000990	Acetaldehyde	Adh7	p
+HMDB0000990	Acetaldehyde	Adh1	p
+HMDB0000990	Acetaldehyde	Adh6b	p
+HMDB0000990	Acetaldehyde	Adh1	p
+HMDB0001043	Arachidonic acid	Pla2g5	p
+HMDB0001043	Arachidonic acid	Pla2g2f	p
+HMDB0001043	Arachidonic acid	Pla2g4a	p
+HMDB0001043	Arachidonic acid	Pla2g1b	p
+HMDB0001043	Arachidonic acid	Pla2g12b	p
+HMDB0001043	Arachidonic acid	Pla2g10	p
+HMDB0001043	Arachidonic acid	Pla2g2e	p
+HMDB0001043	Arachidonic acid	Pla2g12a	p
+HMDB0001043	Arachidonic acid	Pla2g6	p
+HMDB0001043	Arachidonic acid	Pla2g2a	p
+HMDB0001043	Arachidonic acid	Pla2g2d	p
+HMDB0001043	Arachidonic acid	Cyp4a10	s
+HMDB0001043	Arachidonic acid	Pla2g4c	p
+HMDB0001043	Arachidonic acid	Pla2g3	p
+HMDB0001043	Arachidonic acid	Alox5	s
+HMDB0001043	Arachidonic acid	Alox8	s
+HMDB0001043	Arachidonic acid	Alox12	s
+HMDB0001043	Arachidonic acid	Ptgs2	s
+HMDB0001043	Arachidonic acid	Ptgs1	s
+HMDB0001043	Arachidonic acid	Alox15	s
+HMDB0001043	Arachidonic acid	Cyp4f3	s
+HMDB0001043	Arachidonic acid	Cyp4f13	s
+HMDB0001085	Leukotriene B4	Cyp4f3	s
+HMDB0001085	Leukotriene B4	Cyp4f13	s
+HMDB0001085	Leukotriene B4	Lta4h	p
+HMDB0001085	Leukotriene B4	Cyp4a10	s
+HMDB0001085	Leukotriene B4	Cyp4f15	s
+HMDB0001085	Leukotriene B4	Cyp4f39	s
+HMDB0001149	5-Aminolevulinic acid	Alas2	p
+HMDB0001149	5-Aminolevulinic acid	Alas1	p
+HMDB0001149	5-Aminolevulinic acid	Alad	s
+HMDB0001178	Adenosine diphosphate ribose	Nudt5	s
+HMDB0001178	Adenosine diphosphate ribose	Nudt9	s
+HMDB0001178	Adenosine diphosphate ribose	Bst1	p
+HMDB0001178	Adenosine diphosphate ribose	Cd38	p
+HMDB0001178	Adenosine diphosphate ribose	Trpm2	s
+HMDB0001178	Adenosine diphosphate ribose	Adprm	s
+HMDB0001201	Guanosine diphosphate	Cant1	s
+HMDB0001201	Guanosine diphosphate	Uck1	p
+HMDB0001201	Guanosine diphosphate	Nme4	s
+HMDB0001201	Guanosine diphosphate	Nme1	s
+HMDB0001201	Guanosine diphosphate	Nme7	s
+HMDB0001201	Guanosine diphosphate	Rrm2	p
+HMDB0001201	Guanosine diphosphate	Nme2	s
+HMDB0001201	Guanosine diphosphate	Nme3	s
+HMDB0001201	Guanosine diphosphate	Nme6	s
+HMDB0001201	Guanosine diphosphate	Pkm	p
+HMDB0001201	Guanosine diphosphate	Pklr	p
+HMDB0001201	Guanosine diphosphate	Entpd4	s
+HMDB0001201	Guanosine diphosphate	Entpd6	s
+HMDB0001201	Guanosine diphosphate	Entpd5	s
+HMDB0001201	Guanosine diphosphate	Adss2	p
+HMDB0001201	Guanosine diphosphate	Adss1	p
+HMDB0001201	Guanosine diphosphate	Suclg1	p
+HMDB0001201	Guanosine diphosphate	Pck2	p
+HMDB0001201	Guanosine diphosphate	Suclg2	p
+HMDB0001201	Guanosine diphosphate	Pck1	p
+HMDB0001201	Guanosine diphosphate	Sucla2	p
+HMDB0001217	4alpha-Methylzymosterol	Hsd17b7	p
+HMDB0001251	Lanosterol	Cyp51a1	s
+HMDB0001251	Lanosterol	Dhcr24	s
+HMDB0001256	Spermine	Smox	s
+HMDB0001257	Spermidine	Paox	p
+HMDB0001257	Spermidine	Dhps	s
+HMDB0001257	Spermidine	Smox	p
+HMDB0001264	Dehydroascorbic acid	Pam	p
+HMDB0001264	Dehydroascorbic acid	Dbh	p
+HMDB0001273	Guanosine triphosphate	Entpd1	s
+HMDB0001273	Guanosine triphosphate	Entpd3	s
+HMDB0001273	Guanosine triphosphate	Uck1	s
+HMDB0001273	Guanosine triphosphate	Nme4	p
+HMDB0001273	Guanosine triphosphate	Nme1	p
+HMDB0001273	Guanosine triphosphate	Nme7	p
+HMDB0001273	Guanosine triphosphate	Nme2	p
+HMDB0001273	Guanosine triphosphate	Nme3	p
+HMDB0001273	Guanosine triphosphate	Nme6	p
+HMDB0001273	Guanosine triphosphate	Fpgt	s
+HMDB0001273	Guanosine triphosphate	Itpa	s
+HMDB0001273	Guanosine triphosphate	Nudt2	p
+HMDB0001273	Guanosine triphosphate	Adcy7	s
+HMDB0001273	Guanosine triphosphate	Adcy4	s
+HMDB0001273	Guanosine triphosphate	Adcy6	s
+HMDB0001273	Guanosine triphosphate	Adcy5	s
+HMDB0001273	Guanosine triphosphate	Adcy8	s
+HMDB0001273	Guanosine triphosphate	Adcy9	s
+HMDB0001273	Guanosine triphosphate	Adcy3	s
+HMDB0001273	Guanosine triphosphate	Adcy1	s
+HMDB0001273	Guanosine triphosphate	Polr2b	s
+HMDB0001273	Guanosine triphosphate	Polr2a	s
+HMDB0001273	Guanosine triphosphate	Polr3k	s
+HMDB0001273	Guanosine triphosphate	Pkm	s
+HMDB0001273	Guanosine triphosphate	Pklr	s
+HMDB0001273	Guanosine triphosphate	Adss2	s
+HMDB0001273	Guanosine triphosphate	Adss1	s
+HMDB0001273	Guanosine triphosphate	Suclg1	s
+HMDB0001273	Guanosine triphosphate	Pck2	s
+HMDB0001273	Guanosine triphosphate	Suclg2	s
+HMDB0001273	Guanosine triphosphate	Pck1	s
+HMDB0001273	Guanosine triphosphate	Adcy2	s
+HMDB0001273	Guanosine triphosphate	Gch1	s
+HMDB0001273	Guanosine triphosphate	Sucla2	s
+HMDB0001273	Guanosine triphosphate	Npr2	s
+HMDB0001311	D-Lactic acid	Hagh	p
+HMDB0001311	D-Lactic acid	Ldhd	s
+HMDB0001311	D-Lactic acid	Haghl	p
+HMDB0001314	Cyclic GMP	Pde1a	s
+HMDB0001314	Cyclic GMP	Pde8a	s
+HMDB0001314	Cyclic GMP	Pde7a	s
+HMDB0001314	Cyclic GMP	Pde3a	s
+HMDB0001314	Cyclic GMP	Pde10a	s
+HMDB0001314	Cyclic GMP	Pde1c	s
+HMDB0001314	Cyclic GMP	Pde4b	s
+HMDB0001314	Cyclic GMP	Pde7b	s
+HMDB0001314	Cyclic GMP	Pde9a	s
+HMDB0001314	Cyclic GMP	Pde2a	s
+HMDB0001314	Cyclic GMP	Pde8b	s
+HMDB0001314	Cyclic GMP	Pde4c	s
+HMDB0001314	Cyclic GMP	Pde4d	s
+HMDB0001314	Cyclic GMP	Pde4a	s
+HMDB0001314	Cyclic GMP	Pde5a	s
+HMDB0001314	Cyclic GMP	Adcy7	p
+HMDB0001314	Cyclic GMP	Adcy4	p
+HMDB0001314	Cyclic GMP	Adcy6	p
+HMDB0001314	Cyclic GMP	Adcy5	p
+HMDB0001314	Cyclic GMP	Adcy8	p
+HMDB0001314	Cyclic GMP	Adcy9	p
+HMDB0001314	Cyclic GMP	Adcy3	p
+HMDB0001314	Cyclic GMP	Adcy1	p
+HMDB0001314	Cyclic GMP	Adcy2	p
+HMDB0001314	Cyclic GMP	Npr2	p
+HMDB0001314	Cyclic GMP	Gucy1b1	p
+HMDB0001314	Cyclic GMP	Gucy2e	p
+HMDB0001314	Cyclic GMP	Gucy1a1	p
+HMDB0001314	Cyclic GMP	Npr1	p
+HMDB0001314	Cyclic GMP	Gucy2c	p
+HMDB0001314	Cyclic GMP	Gucy1a2	p
+HMDB0001314	Cyclic GMP	Gucy2f	p
+HMDB0001314	Cyclic GMP	Adcy10	p
+HMDB0001314	Cyclic GMP	Pde11a	s
+HMDB0001322	Oleoyl-CoA	Scd1	p
+HMDB0001341	ADP	Cmpk1	p
+HMDB0001341	ADP	Acacb	p
+HMDB0001341	ADP	Pcx	p
+HMDB0001341	ADP	Acaca	p
+HMDB0001341	ADP	Uck1	p
+HMDB0001341	ADP	Rrm2	p
+HMDB0001341	ADP	Adpgk	s
+HMDB0001341	ADP	Fhit	p
+HMDB0001341	ADP	Adk	p
+HMDB0001347	Isopentenyl pyrophosphate	Idi2	s
+HMDB0001347	Isopentenyl pyrophosphate	Idi1	s
+HMDB0001347	Isopentenyl pyrophosphate	Pdss2	s
+HMDB0001347	Isopentenyl pyrophosphate	Pdss1	s
+HMDB0001358	Retinal	Aldh1a1	s
+HMDB0001358	Retinal	Aldh1a2	s
+HMDB0001358	Retinal	Adh4	p
+HMDB0001358	Retinal	Adh5	p
+HMDB0001358	Retinal	Adh1	p
+HMDB0001358	Retinal	Adh7	p
+HMDB0001358	Retinal	Adh1	p
+HMDB0001358	Retinal	Adh6b	p
+HMDB0001358	Retinal	Adh1	p
+HMDB0001358	Retinal	Bco1	p
+HMDB0001358	Retinal	Hsd17b6	p
+HMDB0001358	Retinal	Sdr16c5	p
+HMDB0001361	Carbon monoxide	Hmox2	p
+HMDB0001361	Carbon monoxide	Hmox1	p
+HMDB0001388	alpha-Linolenic acid	Pla2g5	p
+HMDB0001388	alpha-Linolenic acid	Pla2g2f	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4a	p
+HMDB0001388	alpha-Linolenic acid	Pla2g1b	p
+HMDB0001388	alpha-Linolenic acid	Pla2g12b	p
+HMDB0001388	alpha-Linolenic acid	Pla2g10	p
+HMDB0001388	alpha-Linolenic acid	Pla2g2e	p
+HMDB0001388	alpha-Linolenic acid	Pla2g12a	p
+HMDB0001388	alpha-Linolenic acid	Pla2g6	p
+HMDB0001388	alpha-Linolenic acid	Pla2g2a	p
+HMDB0001388	alpha-Linolenic acid	Pla2g2d	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4c	p
+HMDB0001388	alpha-Linolenic acid	Pla2g3	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4d	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4e	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4f	p
+HMDB0001388	alpha-Linolenic acid	Pla2g4b	p
+HMDB0001389	Melatonin	Asmt	p
+HMDB0001389	Melatonin	Ido1	s
+HMDB0001389	Melatonin	Ido2	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Mtr	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Mthfr	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Hemk1	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Mettl2	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Mettl6	s
+HMDB0001396	5-Methyltetrahydrofolic acid	Bud23	s
+HMDB0001414	Putrescine	Paox	p
+HMDB0001414	Putrescine	Aoc1	s
+HMDB0001414	Putrescine	Agmat	p
+HMDB0001429	Phosphate	Nt5e	p
+HMDB0001429	Phosphate	Nt5c1b	p
+HMDB0001429	Phosphate	Nt5c1a	p
+HMDB0001429	Phosphate	Nt5c	p
+HMDB0001429	Phosphate	Nt5m	p
+HMDB0001429	Phosphate	Acacb	p
+HMDB0001429	Phosphate	Pcx	p
+HMDB0001429	Phosphate	Acaca	p
+HMDB0001429	Phosphate	Entpd1	p
+HMDB0001429	Phosphate	Cant1	p
+HMDB0001429	Phosphate	Entpd3	p
+HMDB0001429	Phosphate	Alpi	p
+HMDB0001429	Phosphate	Akp3	p
+HMDB0001429	Phosphate	Alpl	p
+HMDB0001429	Phosphate	Acp5	p
+HMDB0001429	Phosphate	Alpg	p
+HMDB0001429	Phosphate	Plpp2	p
+HMDB0001429	Phosphate	Plpp1	p
+HMDB0001429	Phosphate	Plpp3	p
+HMDB0001429	Phosphate	Bpnt1	p
+HMDB0001429	Phosphate	Inpp5a	p
+HMDB0001429	Phosphate	Inpp1	p
+HMDB0001452	Thromboxane A2	Tbxas1	p
+HMDB0001457	5beta-Cholestane-3alpha,7alpha,12alpha-triol	Akr1c6	s
+HMDB0001457	5beta-Cholestane-3alpha,7alpha,12alpha-triol	Cyp27a1	s
+HMDB0001514	Glucosamine	Sgsh	p
+HMDB0001514	Glucosamine	Hkdc1	s
+HMDB0001547	Corticosterone	Cyp11b2	p
+HMDB0001547	Corticosterone	Cyp21	p
+HMDB0001830	Progesterone	Cyp11b2	s
+HMDB0001830	Progesterone	Cyp17a1	s
+HMDB0001830	Progesterone	Hsd3b2	p
+HMDB0001830	Progesterone	Hsd3b1	p
+HMDB0001830	Progesterone	Cyp11b1	s
+HMDB0001830	Progesterone	Cyp21	s
+HMDB0001852	all-trans-Retinoic acid	Aldh1a1	p
+HMDB0001852	all-trans-Retinoic acid	Aldh1a2	p
+HMDB0001852	all-trans-Retinoic acid	Cyp4a10	s
+HMDB0001903	Calcitriol	Cyp27b1	p
+HMDB0001903	Calcitriol	Cyp24a1	s
+HMDB0002103	27-Hydroxycholesterol	Cyp7a1	s
+HMDB0002103	27-Hydroxycholesterol	Cyp7b1	s
+HMDB0002190	5,6-Epoxy-8,11,14-eicosatrienoic acid	Ephx2	s
+HMDB0002369	9-cis-Retinoic acid	Aldh1a1	p
+HMDB0002369	9-cis-Retinoic acid	Aldh1a2	p
+HMDB0002719	Desmosterol	Dhcr24	p
+HMDB0003125	Hydrogen peroxide	Pipox	p
+HMDB0003125	Hydrogen peroxide	Paox	p
+HMDB0003125	Hydrogen peroxide	Acox1	p
+HMDB0003125	Hydrogen peroxide	Ddo	p
+HMDB0003125	Hydrogen peroxide	Maob	p
+HMDB0003125	Hydrogen peroxide	Maoa	p
+HMDB0003125	Hydrogen peroxide	Xdh	p
+HMDB0003125	Hydrogen peroxide	Acox3	p
+HMDB0003125	Hydrogen peroxide	Dao	p
+HMDB0003125	Hydrogen peroxide	Tpo	s
+HMDB0003125	Hydrogen peroxide	Lpo	s
+HMDB0003125	Hydrogen peroxide	Mpo	s
+HMDB0003125	Hydrogen peroxide	Epx	s
+HMDB0003125	Hydrogen peroxide	Aoc1	p
+HMDB0003125	Hydrogen peroxide	Aoc3	p
+HMDB0003125	Hydrogen peroxide	Aoc2	p
+HMDB0003125	Hydrogen peroxide	Pnpo	p
+HMDB0003125	Hydrogen peroxide	Lox	p
+HMDB0003125	Hydrogen peroxide	Hao1	p
+HMDB0003125	Hydrogen peroxide	Hao2	p
+HMDB0003125	Hydrogen peroxide	Ppox	p
+HMDB0003125	Hydrogen peroxide	Suox	p
+HMDB0003125	Hydrogen peroxide	Sod2	p
+HMDB0003125	Hydrogen peroxide	Sod1	p
+HMDB0003125	Hydrogen peroxide	Smox	p
+HMDB0003125	Hydrogen peroxide	Duox2	p
+HMDB0003125	Hydrogen peroxide	Sod3	p
+HMDB0003125	Hydrogen peroxide	Duox1	p
+HMDB0003125	Hydrogen peroxide	Pxdn	s
+HMDB0003125	Hydrogen peroxide	Loxl2	p
+HMDB0003125	Hydrogen peroxide	Gfer	p
+HMDB0003125	Hydrogen peroxide	Il4i1	p
+HMDB0003125	Hydrogen peroxide	Pcyox1	p
+HMDB0003125	Hydrogen peroxide	Qsox1	p
+HMDB0003125	Hydrogen peroxide	Qsox2	p
+HMDB0003178	Heme	Hmox2	s
+HMDB0003178	Heme	Hmox1	s
+HMDB0003276	Hydrogen sulfide	Cbs	s
+HMDB0003276	Hydrogen sulfide	Lias	s
+HMDB0003378	Nitric oxide	Nos2	p
+HMDB0003378	Nitric oxide	Nos1	p
+HMDB0003378	Nitric oxide	Nos3	p
+HMDB0003550	Calcidiol	Cyp27b1	s
+HMDB0003550	Calcidiol	Cyp24a1	s
+HMDB0004472	Eucalyptol	Cyp3a13	s
+HMDB0006219	13-cis-Retinoic acid	Aldh1a1	p
+HMDB0006219	13-cis-Retinoic acid	Aldh1a2	p
+HMDB0006247	25-Hydroxycholesterol	Cyp7b1	s
+HMDB0006247	25-Hydroxycholesterol	Ch25h	p
+HMDB0012275	Phenylethylamine	Maob	s
+HMDB0012275	Phenylethylamine	Maoa	s
+HMDB0012275	Phenylethylamine	Aoc3	s
+HMDB0012275	Phenylethylamine	Aoc2	s
+HMDB0015531	Iron	Hmox2	p
+HMDB0015531	Iron	Hmox1	p
+HMDB0015531	Iron	Ftmt	p
+HMDB0015531	Iron	Cp	p
+HMDB0015531	Iron	Fxn	p
+HMDB0015531	Iron	Fth1	p
+HMDB0000012	Deoxyuridine	Pnp	s
+HMDB0000012	Deoxyuridine	Tk1	s
+HMDB0000012	Deoxyuridine	Tk2	s
+HMDB0000012	Deoxyuridine	Tymp	s
+HMDB0000014	Deoxycytidine	Dck	s
+HMDB0000014	Deoxycytidine	Nt5c3a	p
+HMDB0000030	Biotin	Hlcs	s
+HMDB0000030	Biotin	Btd	p
+HMDB0000031	Androsterone	Ugt2b5	s
+HMDB0000031	Androsterone	Ugt1a5	s
+HMDB0000031	Androsterone	Ugt2b34	s
+HMDB0000031	Androsterone	Ugt2b35	s
+HMDB0000031	Androsterone	Ugt2a1	s
+HMDB0000031	Androsterone	Ugt1a1	s
+HMDB0000031	Androsterone	Ugt1a9	s
+HMDB0000031	Androsterone	Ugt1a9	s
+HMDB0000031	Androsterone	Ugt1a2	s
+HMDB0000031	Androsterone	Ugt1a9	s
+HMDB0000031	Androsterone	Ugt2b1	s
+HMDB0000031	Androsterone	Ugt1a6	s
+HMDB0000031	Androsterone	Ugt1a2	s
+HMDB0000031	Androsterone	Ugt1a9	s
+HMDB0000031	Androsterone	Ugt2a3	s
+HMDB0000034	Adenine	Mtap	p
+HMDB0000034	Adenine	Aprt	p
+HMDB0000034	Adenine	Pnp	p
+HMDB0000037	Aldosterone	Akr1d1	p
+HMDB0000045	Adenosine monophosphate	Dck	p
+HMDB0000045	Adenosine monophosphate	Acss2	p
+HMDB0000045	Adenosine monophosphate	Acss1	p
+HMDB0000045	Adenosine monophosphate	Farsa	p
+HMDB0000045	Adenosine monophosphate	Fars2	p
+HMDB0000045	Adenosine monophosphate	Aprt	s
+HMDB0000045	Adenosine monophosphate	Hlcs	p
+HMDB0000045	Adenosine monophosphate	Farsb	p
+HMDB0000045	Adenosine monophosphate	Ube2a	p
+HMDB0000045	Adenosine monophosphate	Ak1	s
+HMDB0000045	Adenosine monophosphate	Ube2m	p
+HMDB0000045	Adenosine monophosphate	Ube2l6	p
+HMDB0000045	Adenosine monophosphate	Gars1	p
+HMDB0000045	Adenosine monophosphate	Eprs1	p
+HMDB0000045	Adenosine monophosphate	Ak3	s
+HMDB0000045	Adenosine monophosphate	Wars1	p
+HMDB0000045	Adenosine monophosphate	Pde1b	p
+HMDB0000045	Adenosine monophosphate	Pde3b	p
+HMDB0000045	Adenosine monophosphate	Ube2g1	p
+HMDB0000045	Adenosine monophosphate	Qars1	p
+HMDB0000045	Adenosine monophosphate	Tars1	p
+HMDB0000045	Adenosine monophosphate	Asns	p
+HMDB0000045	Adenosine monophosphate	Ube2e2	p
+HMDB0000045	Adenosine monophosphate	Adsl	p
+HMDB0000045	Adenosine monophosphate	Ak4	s
+HMDB0000050	Adenosine	Dck	s
+HMDB0000050	Adenosine	Ada	s
+HMDB0000050	Adenosine	Nt5c3a	p
+HMDB0000050	Adenosine	Pnp	s
+HMDB0000053	Androstenedione	Akr1d1	p
+HMDB0000053	Androstenedione	Srd5a2	p
+HMDB0000053	Androstenedione	Srd5a1	p
+HMDB0000053	Androstenedione	Hsd17b3	p
+HMDB0000053	Androstenedione	Srd5a3	p
+HMDB0000056	beta-Alanine	Abat	s
+HMDB0000056	beta-Alanine	Gad2	p
+HMDB0000056	beta-Alanine	Gad1	p
+HMDB0000058	Cyclic AMP	Pde1b	s
+HMDB0000058	Cyclic AMP	Pde3b	s
+HMDB0000062	L-Carnitine	Crat	s
+HMDB0000062	L-Carnitine	Crot	s
+HMDB0000062	L-Carnitine	Cpt1b	s
+HMDB0000062	L-Carnitine	Cpt1a	s
+HMDB0000062	L-Carnitine	Cpt2	s
+HMDB0000062	L-Carnitine	Cpt1c	s
+HMDB0000063	Cortisol	Akr1d1	p
+HMDB0000063	Cortisol	Hsd11b1	s
+HMDB0000064	Creatine	Ckmt2	s
+HMDB0000064	Creatine	Ckb	s
+HMDB0000064	Creatine	Ckmt1	s
+HMDB0000064	Creatine	Ckm	s
+HMDB0000067	Cholesterol	Lipa	p
+HMDB0000067	Cholesterol	Sult2b1	s
+HMDB0000067	Cholesterol	Soat2	s
+HMDB0000067	Cholesterol	Soat1	s
+HMDB0000067	Cholesterol	Dhcr7	s
+HMDB0000071	Deoxyinosine	Ada	p
+HMDB0000073	Dopamine	Ddc	p
+HMDB0000077	Dehydroepiandrosterone	Sult2b1	s
+HMDB0000085	Deoxyguanosine	Dguok	s
+HMDB0000085	Deoxyguanosine	Nt5c3a	p
+HMDB0000085	Deoxyguanosine	Pnp	s
+HMDB0000089	Cytidine	Nt5c3a	p
+HMDB0000089	Cytidine	Uckl1	s
+HMDB0000089	Cytidine	Apobec3	s
+HMDB0000094	Citric acid	Aco2	s
+HMDB0000097	Choline	Chat	s
+HMDB0000097	Choline	Pld2	p
+HMDB0000097	Choline	Ache	p
+HMDB0000097	Choline	Bche	p
+HMDB0000097	Choline	Chkb	s
+HMDB0000097	Choline	Chka	s
+HMDB0000097	Choline	Pld3	p
+HMDB0000097	Choline	Pld4	p
+HMDB0000101	Deoxyadenosine	Ada	s
+HMDB0000101	Deoxyadenosine	Nt5c3a	p
+HMDB0000101	Deoxyadenosine	Pnp	s
+HMDB0000108	Ethanol	Akr1a1	s
+HMDB0000112	gamma-Aminobutyric acid	Abat	s
+HMDB0000112	gamma-Aminobutyric acid	Gatm	s
+HMDB0000112	gamma-Aminobutyric acid	Glul	p
+HMDB0000112	gamma-Aminobutyric acid	Gad2	p
+HMDB0000112	gamma-Aminobutyric acid	Gad1	p
+HMDB0000121	Folic acid	Dhfr	p
+HMDB0000122	D-Glucose	Gck	s
+HMDB0000122	D-Glucose	Hk3	s
+HMDB0000122	D-Glucose	Hk2	s
+HMDB0000122	D-Glucose	Hk1	s
+HMDB0000122	D-Glucose	Sis	p
+HMDB0000122	D-Glucose	Lct	p
+HMDB0000122	D-Glucose	Lalba	s
+HMDB0000122	D-Glucose	Treh	p
+HMDB0000122	D-Glucose	G6pc1	p
+HMDB0000122	D-Glucose	Gla	p
+HMDB0000122	D-Glucose	Gba1	p
+HMDB0000122	D-Glucose	Gaa	p
+HMDB0000122	D-Glucose	Mgam	p
+HMDB0000122	D-Glucose	G6pc3	p
+HMDB0000122	D-Glucose	G6pc2	p
+HMDB0000122	D-Glucose	Ganc	p
+HMDB0000122	D-Glucose	Galm	p
+HMDB0000122	D-Glucose	Gba2	p
+HMDB0000123	Glycine	Gcat	s
+HMDB0000123	Glycine	Gart	s
+HMDB0000123	Glycine	Gatm	s
+HMDB0000123	Glycine	Baat	s
+HMDB0000123	Glycine	Gars1	s
+HMDB0000123	Glycine	Amt	s
+HMDB0000123	Glycine	Gss	s
+HMDB0000123	Glycine	Gldc	s
+HMDB0000123	Glycine	Gcsh	s
+HMDB0000123	Glycine	Glyat	s
+HMDB0000123	Glycine	Kyat3	p
+HMDB0000131	Glycerol	Lpl	s
+HMDB0000131	Glycerol	Mgll	p
+HMDB0000131	Glycerol	Akr1a1	s
+HMDB0000131	Glycerol	Gla	p
+HMDB0000131	Glycerol	Gk2	s
+HMDB0000131	Glycerol	Gykl1	s
+HMDB0000131	Glycerol	Gk	s
+HMDB0000131	Glycerol	Crls1	p
+HMDB0000131	Glycerol	Gk5	s
+HMDB0000131	Glycerol	Enpp6	p
+HMDB0000131	Glycerol	Gdpd2	p
+HMDB0000132	Guanine	Aprt	p
+HMDB0000132	Guanine	Pnp	p
+HMDB0000132	Guanine	Qtrt2	p
+HMDB0000133	Guanosine	Nt5c3a	p
+HMDB0000133	Guanosine	Pnp	s
+HMDB0000134	Fumaric acid	Adsl	p
+HMDB0000134	Fumaric acid	Asl	p
+HMDB0000134	Fumaric acid	Fh	p
+HMDB0000143	D-Galactose	Hk3	s
+HMDB0000143	D-Galactose	Hk2	s
+HMDB0000143	D-Galactose	Hk1	s
+HMDB0000145	Estrone	Sult1e1	s
+HMDB0000145	Estrone	Ugt2b5	s
+HMDB0000145	Estrone	Ugt1a5	s
+HMDB0000145	Estrone	Ugt2b34	s
+HMDB0000145	Estrone	Ugt2b35	s
+HMDB0000145	Estrone	Ugt2a1	s
+HMDB0000145	Estrone	Ugt1a1	s
+HMDB0000145	Estrone	Ugt1a9	s
+HMDB0000145	Estrone	Ugt1a9	s
+HMDB0000145	Estrone	Ugt1a2	s
+HMDB0000145	Estrone	Ugt1a9	s
+HMDB0000145	Estrone	Ugt2b1	s
+HMDB0000145	Estrone	Ugt1a6	s
+HMDB0000145	Estrone	Ugt1a2	s
+HMDB0000145	Estrone	Ugt1a9	s
+HMDB0000148	L-Glutamic acid	Gfpt2	p
+HMDB0000148	L-Glutamic acid	Gfpt1	p
+HMDB0000148	L-Glutamic acid	Abat	p
+HMDB0000148	L-Glutamic acid	Got1	p
+HMDB0000148	L-Glutamic acid	Got2	p
+HMDB0000148	L-Glutamic acid	Bcat1	p
+HMDB0000148	L-Glutamic acid	Aadat	p
+HMDB0000148	L-Glutamic acid	Agxt2	p
+HMDB0000148	L-Glutamic acid	Oat	p
+HMDB0000148	L-Glutamic acid	Kyat1	p
+HMDB0000148	L-Glutamic acid	Gclc	s
+HMDB0000148	L-Glutamic acid	Nags	s
+HMDB0000148	L-Glutamic acid	Bcat2	p
+HMDB0000148	L-Glutamic acid	Eprs1	s
+HMDB0000148	L-Glutamic acid	Asns	p
+HMDB0000148	L-Glutamic acid	Glul	s
+HMDB0000148	L-Glutamic acid	Gls2	p
+HMDB0000148	L-Glutamic acid	Gls	p
+HMDB0000148	L-Glutamic acid	Ftcd	s
+HMDB0000148	L-Glutamic acid	Gad2	s
+HMDB0000148	L-Glutamic acid	Gad1	s
+HMDB0000148	L-Glutamic acid	Fpgs	s
+HMDB0000148	L-Glutamic acid	Gpt	p
+HMDB0000148	L-Glutamic acid	Psat1	p
+HMDB0000148	L-Glutamic acid	Pfas	p
+HMDB0000148	L-Glutamic acid	Aldh18a1	s
+HMDB0000148	L-Glutamic acid	Oplah	p
+HMDB0000151	Estradiol	Ugt2b5	s
+HMDB0000151	Estradiol	Ugt1a5	s
+HMDB0000151	Estradiol	Ugt2b34	s
+HMDB0000151	Estradiol	Ugt2b35	s
+HMDB0000151	Estradiol	Ugt2a1	s
+HMDB0000151	Estradiol	Ugt1a1	s
+HMDB0000151	Estradiol	Ugt1a9	s
+HMDB0000151	Estradiol	Ugt1a9	s
+HMDB0000151	Estradiol	Ugt1a2	s
+HMDB0000151	Estradiol	Ugt1a9	s
+HMDB0000151	Estradiol	Ugt2b1	s
+HMDB0000151	Estradiol	Ugt1a6	s
+HMDB0000151	Estradiol	Ugt1a2	s
+HMDB0000151	Estradiol	Ugt1a9	s
+HMDB0000156	Malic acid	Fh	s
+HMDB0000157	Hypoxanthine	Pnp	p
+HMDB0000158	L-Tyrosine	Th	s
+HMDB0000158	L-Tyrosine	Tat	s
+HMDB0000158	L-Tyrosine	Ddc	s
+HMDB0000158	L-Tyrosine	Pah	p
+HMDB0000158	L-Tyrosine	Got1	s
+HMDB0000158	L-Tyrosine	Got2	s
+HMDB0000158	L-Tyrosine	Yars1	s
+HMDB0000158	L-Tyrosine	Yars2	s
+HMDB0000159	L-Phenylalanine	Farsa	s
+HMDB0000159	L-Phenylalanine	Fars2	s
+HMDB0000159	L-Phenylalanine	Tat	s
+HMDB0000159	L-Phenylalanine	Ddc	s
+HMDB0000159	L-Phenylalanine	Pah	s
+HMDB0000159	L-Phenylalanine	Prdx6	s
+HMDB0000159	L-Phenylalanine	Got1	s
+HMDB0000159	L-Phenylalanine	Got2	s
+HMDB0000159	L-Phenylalanine	Kyat1	p
+HMDB0000159	L-Phenylalanine	Farsb	s
+HMDB0000163	D-Maltose	Gaa	s
+HMDB0000163	D-Maltose	Mgam	s
+HMDB0000163	D-Maltose	Ganc	s
+HMDB0000167	L-Threonine	Tars1	s
+HMDB0000167	L-Threonine	Sds	s
+HMDB0000167	L-Threonine	Sdsl	s
+HMDB0000167	L-Threonine	Tars3	s
+HMDB0000167	L-Threonine	Tars2	s
+HMDB0000168	L-Asparagine	Asns	p
+HMDB0000168	L-Asparagine	NARS1	s
+HMDB0000168	L-Asparagine	Asrgl1	s
+HMDB0000168	L-Asparagine	Aspg	s
+HMDB0000168	L-Asparagine	Nars2	s
+HMDB0000169	D-Mannose	Hk3	s
+HMDB0000169	D-Mannose	Hk2	s
+HMDB0000169	D-Mannose	Hk1	s
+HMDB0000172	L-Isoleucine	Bcat1	s
+HMDB0000172	L-Isoleucine	Bcat2	s
+HMDB0000172	L-Isoleucine	Iars1	s
+HMDB0000172	L-Isoleucine	Iars2	s
+HMDB0000177	L-Histidine	Ddc	s
+HMDB0000177	L-Histidine	Hars2	s
+HMDB0000177	L-Histidine	Hars1	s
+HMDB0000177	L-Histidine	Hal	s
+HMDB0000177	L-Histidine	Hdc	s
+HMDB0000181	L-Dopa	Th	p
+HMDB0000181	L-Dopa	Ddc	s
+HMDB0000182	L-Lysine	Btd	p
+HMDB0000182	L-Lysine	Kars	s
+HMDB0000187	L-Serine	Sars2	s
+HMDB0000187	L-Serine	Sars	s
+HMDB0000187	L-Serine	Sds	s
+HMDB0000187	L-Serine	Sptlc1	s
+HMDB0000187	L-Serine	Sptlc2	s
+HMDB0000187	L-Serine	Ptdss1	s
+HMDB0000187	L-Serine	Ptdss2	s
+HMDB0000187	L-Serine	Sdsl	s
+HMDB0000187	L-Serine	Sptlc3	s
+HMDB0000187	L-Serine	Srr	s
+HMDB0000191	L-Aspartic acid	Got1	s
+HMDB0000191	L-Aspartic acid	Got2	s
+HMDB0000191	L-Aspartic acid	Aspa	p
+HMDB0000191	L-Aspartic acid	Acy3	p
+HMDB0000191	L-Aspartic acid	Asns	s
+HMDB0000191	L-Aspartic acid	Dars1	s
+HMDB0000191	L-Aspartic acid	Ass1	s
+HMDB0000191	L-Aspartic acid	Gad2	s
+HMDB0000191	L-Aspartic acid	Gad1	s
+HMDB0000191	L-Aspartic acid	Paics	s
+HMDB0000191	L-Aspartic acid	Aga	p
+HMDB0000191	L-Aspartic acid	Asrgl1	p
+HMDB0000191	L-Aspartic acid	Aspg	p
+HMDB0000191	L-Aspartic acid	Got1l1	s
+HMDB0000191	L-Aspartic acid	Dars2	s
+HMDB0000195	Inosine	Ada	p
+HMDB0000195	Inosine	Nt5c3a	p
+HMDB0000195	Inosine	Pnp	s
+HMDB0000207	Oleic acid	Fasn	p
+HMDB0000207	Oleic acid	Acot7	p
+HMDB0000207	Oleic acid	Acot2	p
+HMDB0000207	Oleic acid	Acot4	p
+HMDB0000207	Oleic acid	Faah	p
+HMDB0000207	Oleic acid	Acot3	p
+HMDB0000207	Oleic acid	Olah	p
+HMDB0000208	Oxoglutaric acid	Abat	s
+HMDB0000208	Oxoglutaric acid	Got1	s
+HMDB0000208	Oxoglutaric acid	Got2	s
+HMDB0000208	Oxoglutaric acid	Bcat1	s
+HMDB0000208	Oxoglutaric acid	P4ha2	s
+HMDB0000208	Oxoglutaric acid	P4ha1	s
+HMDB0000208	Oxoglutaric acid	Aadat	s
+HMDB0000208	Oxoglutaric acid	Agxt2	s
+HMDB0000208	Oxoglutaric acid	Oat	s
+HMDB0000208	Oxoglutaric acid	Ogdh	s
+HMDB0000208	Oxoglutaric acid	Kyat1	s
+HMDB0000208	Oxoglutaric acid	Bcat2	s
+HMDB0000208	Oxoglutaric acid	Gpt	s
+HMDB0000208	Oxoglutaric acid	Psat1	s
+HMDB0000208	Oxoglutaric acid	Gpt2	s
+HMDB0000208	Oxoglutaric acid	Got1l1	s
+HMDB0000208	Oxoglutaric acid	Kyat3	s
+HMDB0000214	Ornithine	Oat	s
+HMDB0000214	Ornithine	Gatm	p
+HMDB0000214	Ornithine	Otc	s
+HMDB0000214	Ornithine	Odc1	s
+HMDB0000220	Palmitic acid	Lypla1	p
+HMDB0000220	Palmitic acid	Lypla2	p
+HMDB0000220	Palmitic acid	Baat	p
+HMDB0000220	Palmitic acid	Acot7	p
+HMDB0000220	Palmitic acid	Acot2	p
+HMDB0000220	Palmitic acid	Acot4	p
+HMDB0000220	Palmitic acid	Ppt1	p
+HMDB0000220	Palmitic acid	Ppt2	p
+HMDB0000234	Testosterone	Ugt2b5	s
+HMDB0000234	Testosterone	Ugt1a5	s
+HMDB0000234	Testosterone	Ugt2b34	s
+HMDB0000234	Testosterone	Ugt2b35	s
+HMDB0000234	Testosterone	Ugt2a1	s
+HMDB0000234	Testosterone	Ugt1a1	s
+HMDB0000234	Testosterone	Ugt1a9	s
+HMDB0000234	Testosterone	Ugt1a9	s
+HMDB0000234	Testosterone	Ugt1a2	s
+HMDB0000234	Testosterone	Ugt1a9	s
+HMDB0000234	Testosterone	Ugt2b1	s
+HMDB0000234	Testosterone	Ugt1a6	s
+HMDB0000234	Testosterone	Ugt1a2	s
+HMDB0000234	Testosterone	Ugt1a9	s
+HMDB0000234	Testosterone	Akr1d1	p
+HMDB0000234	Testosterone	Srd5a2	p
+HMDB0000234	Testosterone	Srd5a1	p
+HMDB0000234	Testosterone	Hsd17b3	s
+HMDB0000235	Thiamine	Tpk1	s
+HMDB0000243	Pyruvic acid	Gpt	p
+HMDB0000243	Pyruvic acid	Gpt2	p
+HMDB0000243	Pyruvic acid	Scly	p
+HMDB0000244	Riboflavin	Acp2	p
+HMDB0000244	Riboflavin	Acp1	p
+HMDB0000244	Riboflavin	Acp3	p
+HMDB0000244	Riboflavin	Acp6	p
+HMDB0000244	Riboflavin	Acp4	p
+HMDB0000248	Thyroxine	Dio1	p
+HMDB0000248	Thyroxine	Dio2	p
+HMDB0000248	Thyroxine	Dio3	p
+HMDB0000252	Sphingosine	Asah1	p
+HMDB0000252	Sphingosine	Cers1	s
+HMDB0000252	Sphingosine	Acer2	p
+HMDB0000252	Sphingosine	Asah2	p
+HMDB0000252	Sphingosine	Acer1	p
+HMDB0000254	Succinic acid	P4ha2	p
+HMDB0000254	Succinic acid	P4ha1	p
+HMDB0000254	Succinic acid	Oxct1	p
+HMDB0000254	Succinic acid	Oxct2a	p
+HMDB0000254	Succinic acid	P4ha3	p
+HMDB0000254	Succinic acid	Kdm2a	p
+HMDB0000254	Succinic acid	Kdm2b	p
+HMDB0000254	Succinic acid	Egln1	p
+HMDB0000254	Succinic acid	Egln2	p
+HMDB0000254	Succinic acid	Egln3	p
+HMDB0000254	Succinic acid	P4htm	p
+HMDB0000259	Serotonin	Aanat	s
+HMDB0000259	Serotonin	Ddc	p
+HMDB0000262	Thymine	Tymp	p
+HMDB0000265	Liothyronine	Dio1	s
+HMDB0000265	Liothyronine	Dio2	s
+HMDB0000265	Liothyronine	Dio3	s
+HMDB0000277	Sphingosine 1-phosphate	Sgpl1	s
+HMDB0000285	Uridine triphosphate	Ak3	s
+HMDB0000285	Uridine triphosphate	Polr3d	s
+HMDB0000285	Uridine triphosphate	Polr1b	s
+HMDB0000285	Uridine triphosphate	Polr3g	s
+HMDB0000285	Uridine triphosphate	Polr3b	s
+HMDB0000285	Uridine triphosphate	Polr1e	s
+HMDB0000285	Uridine triphosphate	Polr3h	s
+HMDB0000285	Uridine triphosphate	Ugp2	s
+HMDB0000285	Uridine triphosphate	Uap1	s
+HMDB0000285	Uridine triphosphate	Ctps2	s
+HMDB0000285	Uridine triphosphate	Uckl1	s
+HMDB0000285	Uridine triphosphate	Polr3a	s
+HMDB0000285	Uridine triphosphate	Polr1a	s
+HMDB0000285	Uridine triphosphate	Polr1d	s
+HMDB0000285	Uridine triphosphate	Polr3gl	s
+HMDB0000286	Uridine diphosphate glucose	Ugcg	s
+HMDB0000286	Uridine diphosphate glucose	Alg5	s
+HMDB0000286	Uridine diphosphate glucose	Ugp2	p
+HMDB0000286	Uridine diphosphate glucose	Gys2	s
+HMDB0000286	Uridine diphosphate glucose	Gys1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gne	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pigq	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Piga	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pigh	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pigp	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Pigc	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Uap1	p
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Dpagt1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Ext1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Extl3	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Ext2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Extl1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	B4gat1	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat5	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Ogt	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat3	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gcnt2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Extl2	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat4a	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Mgat4b	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	B3gnt5	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Gnptab	s
+HMDB0000290	Uridine diphosphate-N-acetylglucosamine	Alg13	s
+HMDB0000292	Xanthine	Pnp	p
+HMDB0000294	Urea	Allc	p
+HMDB0000295	Uridine 5'-diphosphate	Gne	p
+HMDB0000295	Uridine 5'-diphosphate	Lalba	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt2b5	p
+HMDB0000295	Uridine 5'-diphosphate	Csgalnact1	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a5	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt2b34	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt2b35	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt2a1	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a1	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a9	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a9	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a2	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a9	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt2b1	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a6	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a2	p
+HMDB0000295	Uridine 5'-diphosphate	Ugt1a9	p
+HMDB0000295	Uridine 5'-diphosphate	Ak3	p
+HMDB0000295	Uridine 5'-diphosphate	Ugcg	p
+HMDB0000295	Uridine 5'-diphosphate	B4galnt1	p
+HMDB0000295	Uridine 5'-diphosphate	A4galt	p
+HMDB0000296	Uridine	Nt5c3a	p
+HMDB0000296	Uridine	Upp1	s
+HMDB0000296	Uridine	Upp2	s
+HMDB0000296	Uridine	Uckl1	s
+HMDB0000296	Uridine	Apobec3	p
+HMDB0000300	Uracil	Pnp	p
+HMDB0000300	Uracil	Tymp	p
+HMDB0000300	Uracil	Upp1	p
+HMDB0000300	Uracil	Upp2	p
+HMDB0000300	Uracil	Uprt	p
+HMDB0000302	Uridine diphosphategalactose	Lalba	s
+HMDB0000302	Uridine diphosphategalactose	A4galt	s
+HMDB0000302	Uridine diphosphategalactose	Ugt8	s
+HMDB0000302	Uridine diphosphategalactose	B3galt4	s
+HMDB0000305	Vitamin A	Dgat1	s
+HMDB0000305	Vitamin A	Lrat	s
+HMDB0000305	Vitamin A	Dgat2	s
+HMDB0000305	Vitamin A	Rdh8	s
+HMDB0000305	Vitamin A	Rdh11	s
+HMDB0000305	Vitamin A	Rdh10	s
+HMDB0000305	Vitamin A	Awat2	s
+HMDB0000305	Vitamin A	Dhrs3	s
+HMDB0000306	Tyramine	Ddc	p
+HMDB0000517	L-Arginine	Gatm	s
+HMDB0000517	L-Arginine	Rars1	s
+HMDB0000517	L-Arginine	Asl	p
+HMDB0000517	L-Arginine	Azin2	s
+HMDB0000517	L-Arginine	Rars2	s
+HMDB0000517	L-Arginine	Adprh	p
+HMDB0000518	Chenodeoxycholic acid	Acot8	s
+HMDB0000518	Chenodeoxycholic acid	Slc27a5	p
+HMDB0000538	Adenosine triphosphate	Dck	s
+HMDB0000538	Adenosine triphosphate	Acss2	s
+HMDB0000538	Adenosine triphosphate	Acss1	s
+HMDB0000538	Adenosine triphosphate	Dtymk	s
+HMDB0000538	Adenosine triphosphate	Gck	s
+HMDB0000538	Adenosine triphosphate	Hk3	s
+HMDB0000538	Adenosine triphosphate	Hk2	s
+HMDB0000538	Adenosine triphosphate	Hk1	s
+HMDB0000538	Adenosine triphosphate	Fcsk	s
+HMDB0000538	Adenosine triphosphate	Pccb	s
+HMDB0000538	Adenosine triphosphate	Pcca	s
+HMDB0000538	Adenosine triphosphate	Farsa	s
+HMDB0000538	Adenosine triphosphate	Fars2	s
+HMDB0000538	Adenosine triphosphate	Gart	s
+HMDB0000538	Adenosine triphosphate	Gne	s
+HMDB0000538	Adenosine triphosphate	Papss1	s
+HMDB0000538	Adenosine triphosphate	Papss2	s
+HMDB0000538	Adenosine triphosphate	Cps1	s
+HMDB0000574	L-Cysteine	Got1	s
+HMDB0000574	L-Cysteine	Got2	s
+HMDB0000574	L-Cysteine	Gclc	s
+HMDB0000574	L-Cysteine	Ppcs	s
+HMDB0000574	L-Cysteine	Mocos	s
+HMDB0000574	L-Cysteine	Cars1	s
+HMDB0000574	L-Cysteine	Ggct	p
+HMDB0000641	L-Glutamine	Gfpt2	s
+HMDB0000641	L-Glutamine	Gfpt1	s
+HMDB0000641	L-Glutamine	Kyat1	s
+HMDB0000641	L-Glutamine	Qars1	s
+HMDB0000641	L-Glutamine	Asns	s
+HMDB0000641	L-Glutamine	Glul	p
+HMDB0000641	L-Glutamine	Gls2	s
+HMDB0000641	L-Glutamine	Gls	s
+HMDB0000641	L-Glutamine	Pfas	s
+HMDB0000641	L-Glutamine	Gatb	s
+HMDB0000641	L-Glutamine	Ctps2	s
+HMDB0000641	L-Glutamine	Qrsl1	s
+HMDB0000660	D-Fructose	Hk3	s
+HMDB0000660	D-Fructose	Hk2	s
+HMDB0000660	D-Fructose	Hk1	s
+HMDB0000660	D-Fructose	Sis	p
+HMDB0000660	D-Fructose	Khk	s
+HMDB0000660	D-Fructose	Gaa	p
+HMDB0000660	D-Fructose	Mgam	p
+HMDB0000660	D-Fructose	Ganc	p
+HMDB0000660	D-Fructose	Phpt1	p
+HMDB0000673	Linoleic acid	Acot7	p
+HMDB0000673	Linoleic acid	Acot2	p
+HMDB0000673	Linoleic acid	Acot4	p
+HMDB0000687	L-Leucine	Bcat1	s
+HMDB0000687	L-Leucine	Bcat2	s
+HMDB0000687	L-Leucine	Lars2	s
+HMDB0000687	L-Leucine	Lars1	s
+HMDB0000696	L-Methionine	Tat	p
+HMDB0000696	L-Methionine	Kyat1	p
+HMDB0000696	L-Methionine	Msra	s
+HMDB0000696	L-Methionine	Mars1	s
+HMDB0000696	L-Methionine	Kyat3	p
+HMDB0000696	L-Methionine	Msrb2	s
+HMDB0000696	L-Methionine	Msrb3	s
+HMDB0000696	L-Methionine	Mars2	s
+HMDB0000696	L-Methionine	Msrb1	s
+HMDB0000827	Stearic acid	Acot7	p
+HMDB0000827	Stearic acid	Acot2	p
+HMDB0000827	Stearic acid	Acot4	p
+HMDB0000870	Histamine	Ddc	p
+HMDB0000870	Histamine	Hdc	p
+HMDB0000883	L-Valine	Bcat1	s
+HMDB0000883	L-Valine	Bcat2	s
+HMDB0000883	L-Valine	Vars1	s
+HMDB0000883	L-Valine	Vars2	s
+HMDB0000895	Acetylcholine	Chat	p
+HMDB0000895	Acetylcholine	Ache	s
+HMDB0000929	L-Tryptophan	Ddc	s
+HMDB0000929	L-Tryptophan	Tph1	s
+HMDB0000929	L-Tryptophan	Tph2	s
+HMDB0000929	L-Tryptophan	Wars1	s
+HMDB0000929	L-Tryptophan	Wars2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2b5	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a5	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2b34	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2b35	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2a1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a9	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a9	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a9	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2b1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a6	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt1a9	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ext1	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ext2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Chpf2	s
+HMDB0000935	Uridine diphosphate glucuronic acid	Ugt2a3	s
+HMDB0000961	Farnesyl pyrophosphate	Fdps	p
+HMDB0000961	Farnesyl pyrophosphate	Fnta	s
+HMDB0000961	Farnesyl pyrophosphate	Fntb	s
+HMDB0000990	Acetaldehyde	Akr1a1	p
+HMDB0000990	Acetaldehyde	Dera	p
+HMDB0000990	Acetaldehyde	Etnppl	p
+HMDB0001178	Adenosine diphosphate ribose	Adprh	p
+HMDB0001198	Leukotriene C4	Ggt1	s
+HMDB0001198	Leukotriene C4	Ggt7	s
+HMDB0001198	Leukotriene C4	Ltc4s	p
+HMDB0001198	Leukotriene C4	Ggt6	s
+HMDB0001198	Leukotriene C4	Ggt5	s
+HMDB0001201	Guanosine diphosphate	Rrm1	p
+HMDB0001201	Guanosine diphosphate	Alg2	p
+HMDB0001201	Guanosine diphosphate	Dpm1	p
+HMDB0001201	Guanosine diphosphate	Fut2	p
+HMDB0001201	Guanosine diphosphate	Fut1	p
+HMDB0001201	Guanosine diphosphate	Guk1	p
+HMDB0001201	Guanosine diphosphate	Pnpt1	p
+HMDB0001220	Prostaglandin E2	Cbr1	p
+HMDB0001220	Prostaglandin E2	Cbr3	p
+HMDB0001220	Prostaglandin E2	Ptges	p
+HMDB0001220	Prostaglandin E2	Ptges2	p
+HMDB0001220	Prostaglandin E2	Ptges3	p
+HMDB0001251	Lanosterol	Lss	p
+HMDB0001256	Spermine	Sms	p
+HMDB0001256	Spermine	Srm	p
+HMDB0001257	Spermidine	Sms	s
+HMDB0001264	Dehydroascorbic acid	Gsto1	s
+HMDB0001264	Dehydroascorbic acid	Gsto2	s
+HMDB0001273	Guanosine triphosphate	Polr3d	s
+HMDB0001273	Guanosine triphosphate	Polr1b	s
+HMDB0001273	Guanosine triphosphate	Polr3g	s
+HMDB0001273	Guanosine triphosphate	Polr3b	s
+HMDB0001273	Guanosine triphosphate	Polr1e	s
+HMDB0001273	Guanosine triphosphate	Polr3h	s
+HMDB0001314	Cyclic GMP	Pde1b	s
+HMDB0001314	Cyclic GMP	Pde3b	s
+HMDB0001314	Cyclic GMP	Pde6c	s
+HMDB0001314	Cyclic GMP	Pde6a	s
+HMDB0001314	Cyclic GMP	Pde6b	s
+HMDB0001322	Oleoyl-CoA	Acot7	s
+HMDB0001322	Oleoyl-CoA	Acot2	s
+HMDB0001322	Oleoyl-CoA	Acot4	s
+HMDB0001322	Oleoyl-CoA	Acot3	s
+HMDB0001341	ADP	Dck	p
+HMDB0001341	ADP	Dtymk	p
+HMDB0001341	ADP	Rrm1	p
+HMDB0001341	ADP	Gck	p
+HMDB0001341	ADP	Hk3	p
+HMDB0001341	ADP	Hk2	p
+HMDB0001341	ADP	Hk1	p
+HMDB0001341	ADP	Fcsk	p
+HMDB0001341	ADP	Pccb	p
+HMDB0001341	ADP	Pcca	p
+HMDB0001341	ADP	Gart	p
+HMDB0001341	ADP	Gne	p
+HMDB0001341	ADP	Papss1	p
+HMDB0001341	ADP	Papss2	p
+HMDB0001341	ADP	Cps1	p
+HMDB0001341	ADP	Mccc2	p
+HMDB0001341	ADP	Mccc1	p
+HMDB0001341	ADP	Gclc	p
+HMDB0001341	ADP	Ak1	p
+HMDB0001341	ADP	Ak3	p
+HMDB0001341	ADP	Ak4	p
+HMDB0001341	ADP	Ak7	p
+HMDB0001341	ADP	Tpk1	p
+HMDB0001347	Isopentenyl pyrophosphate	Ggps1	s
+HMDB0001347	Isopentenyl pyrophosphate	Fdps	s
+HMDB0001347	Isopentenyl pyrophosphate	Mvd	p
+HMDB0001358	Retinal	Rdh8	p
+HMDB0001358	Retinal	Rdh11	p
+HMDB0001358	Retinal	Rdh10	p
+HMDB0001358	Retinal	Dhrs3	p
+HMDB0001361	Carbon monoxide	Adi1	p
+HMDB0001388	alpha-Linolenic acid	Acot7	p
+HMDB0001388	alpha-Linolenic acid	Acot2	p
+HMDB0001388	alpha-Linolenic acid	Acot4	p
+HMDB0001388	alpha-Linolenic acid	Acot3	p
+HMDB0001403	Prostaglandin D2	Hpgds	p
+HMDB0001403	Prostaglandin D2	Ptgds	p
+HMDB0001414	Putrescine	Sat2	s
+HMDB0001414	Putrescine	Sat1	s
+HMDB0001414	Putrescine	Srm	s
+HMDB0001414	Putrescine	Odc1	p
+HMDB0001429	Phosphate	Acp2	p
+HMDB0001429	Phosphate	Acp1	p
+HMDB0001429	Phosphate	Acp3	p
+HMDB0001429	Phosphate	Pccb	p
+HMDB0001429	Phosphate	Pcca	p
+HMDB0001429	Phosphate	Bpgm	p
+HMDB0001429	Phosphate	Pgam2	p
+HMDB0001429	Phosphate	Pgam1	p
+HMDB0001429	Phosphate	Pgam1	p
+HMDB0001429	Phosphate	Gart	p
+HMDB0001429	Phosphate	Cps1	p
+HMDB0001429	Phosphate	Inpp5j	p
+HMDB0001429	Phosphate	Inpp5k	p
+HMDB0001429	Phosphate	Pygl	s
+HMDB0001514	Glucosamine	Hk3	s
+HMDB0001514	Glucosamine	Hk2	s
+HMDB0001514	Glucosamine	Hk1	s
+HMDB0001547	Corticosterone	Hsd11b1	s
+HMDB0001852	all-trans-Retinoic acid	Ugt2b5	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a5	s
+HMDB0001852	all-trans-Retinoic acid	Ugt2b34	s
+HMDB0001852	all-trans-Retinoic acid	Ugt2b35	s
+HMDB0001852	all-trans-Retinoic acid	Ugt2a1	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a1	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a9	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a9	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a2	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a9	s
+HMDB0001852	all-trans-Retinoic acid	Ugt2b1	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a6	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a2	s
+HMDB0001852	all-trans-Retinoic acid	Ugt1a9	s
+HMDB0001999	Eicosapentaenoic acid	Acot7	p
+HMDB0001999	Eicosapentaenoic acid	Acot2	p
+HMDB0001999	Eicosapentaenoic acid	Acot4	p
+HMDB0001999	Eicosapentaenoic acid	Acot3	p
+HMDB0002183	Docosahexaenoic acid	Acot7	p
+HMDB0002183	Docosahexaenoic acid	Acot2	p
+HMDB0002183	Docosahexaenoic acid	Acot4	p
+HMDB0002183	Docosahexaenoic acid	Acot3	p
+HMDB0002925	Dihomo-gamma-linolenic acid	Acot7	p
+HMDB0002925	Dihomo-gamma-linolenic acid	Acot2	p
+HMDB0002925	Dihomo-gamma-linolenic acid	Acot4	p
+HMDB0002925	Dihomo-gamma-linolenic acid	Acot3	p
+HMDB0002961	Dihydrotestosterone	Srd5a2	s
+HMDB0002961	Dihydrotestosterone	Srd5a1	s
+HMDB0002961	Dihydrotestosterone	Srd5a3	s
+HMDB0003073	gamma-Linolenic acid	Acot7	p
+HMDB0003073	gamma-Linolenic acid	Acot2	p
+HMDB0003073	gamma-Linolenic acid	Acot4	p
+HMDB0003073	gamma-Linolenic acid	Acot3	p
+HMDB0003080	Leukotriene D4	Ggt1	p
+HMDB0003080	Leukotriene D4	Ggt7	p
+HMDB0003080	Leukotriene D4	Ggt6	p
+HMDB0003080	Leukotriene D4	Ggt5	p
+HMDB0003125	Hydrogen peroxide	Prdx6	s
+HMDB0003125	Hydrogen peroxide	Gpx7	s
+HMDB0003125	Hydrogen peroxide	Gpx5	s
+HMDB0003125	Hydrogen peroxide	Gpx6	s
+HMDB0003125	Hydrogen peroxide	Gpx1	s
+HMDB0003125	Hydrogen peroxide	Gpx3	s
+HMDB0003125	Hydrogen peroxide	Gpx2	s
+HMDB0003276	Hydrogen sulfide	Cth	p
+HMDB0004080	Anandamide	Faah	s
+HMDB0006216	11-cis-Retinol	Dgat1	s
+HMDB0006216	11-cis-Retinol	Rpe65	p
+HMDB0006216	11-cis-Retinol	Lrat	s
+HMDB0012275	Phenylethylamine	Ddc	p

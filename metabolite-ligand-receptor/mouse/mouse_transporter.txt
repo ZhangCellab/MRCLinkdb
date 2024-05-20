@@ -1,0 +1,208 @@
+HMDB_ID	NAME	GENE_NAME
+HMDB0000067	Cholesterol	Abcb1a
+HMDB0000067	Cholesterol	Abcg2
+HMDB0000073	Dopamine	Slc22a5
+HMDB0000073	Dopamine	Slc22a1
+HMDB0000073	Dopamine	Slc22a2
+HMDB0000073	Dopamine	Slc22a3
+HMDB0000148	L-Glutamic acid	Slc16a1
+HMDB0000148	L-Glutamic acid	Slc16a10
+HMDB0000641	L-Glutamine	Slc1a5
+HMDB0000641	L-Glutamine	Slc7a8
+HMDB0000641	L-Glutamine	Slc38a3
+HMDB0000641	L-Glutamine	Slc16a10
+HMDB0001311	D-Lactic acid	Slc16a3
+HMDB0001311	D-Lactic acid	Slc16a1
+HMDB0001311	D-Lactic acid	Slc16a7
+HMDB0000687	L-Leucine	Slc7a8
+HMDB0001429	Phosphate	Atp7b
+HMDB0001429	Phosphate	Atp7a
+HMDB0000259	Serotonin	Slc6a4
+HMDB0000151	Estradiol	Slco1b2
+HMDB0000151	Estradiol	Slco2b1
+HMDB0000151	Estradiol	Abcb1a
+HMDB0000151	Estradiol	Abcg2
+HMDB0000151	Estradiol	Slc22a1
+HMDB0000151	Estradiol	Slco1a5
+HMDB0000151	Estradiol	Slc22a2
+HMDB0000151	Estradiol	Slc22a3
+HMDB0000153	Estriol	Abcb1a
+HMDB0000153	Estriol	Slco1a5
+HMDB0000145	Estrone	Slco1b2
+HMDB0000145	Estrone	Slc22a7
+HMDB0000108	Ethanol	Slc29a1
+HMDB0000121	Folic acid	Abcc3
+HMDB0000121	Folic acid	Abcg2
+HMDB0000121	Folic acid	Slc46a1
+HMDB0000121	Folic acid	Abcc4
+HMDB0000121	Folic acid	Slc22a6
+HMDB0000121	Folic acid	Slc25a32
+HMDB0003178	Heme	Slc46a1
+HMDB0000159	L-Phenylalanine	Slc7a8
+HMDB0000159	L-Phenylalanine	Slc16a10
+HMDB0000929	L-Tryptophan	Slc16a2
+HMDB0000929	L-Tryptophan	Slc16a10
+HMDB0001220	Prostaglandin E2	Slco1b2
+HMDB0001220	Prostaglandin E2	Slc22a7
+HMDB0000244	Riboflavin	Slc22a6
+HMDB0000234	Testosterone	Abcb1a
+HMDB0000234	Testosterone	Abcg2
+HMDB0000234	Testosterone	Slc22a4
+HMDB0000234	Testosterone	Slc10a1
+HMDB0000234	Testosterone	Slc22a1
+HMDB0000234	Testosterone	Slco1a5
+HMDB0000234	Testosterone	Slc22a3
+HMDB0000234	Testosterone	Slc22a7
+HMDB0000158	L-Tyrosine	Slc16a2
+HMDB0000158	L-Tyrosine	Slc16a10
+HMDB0000123	Glycine	Slc36a1
+HMDB0000123	Glycine	Slc16a10
+HMDB0000097	Choline	Slc44a1
+HMDB0000097	Choline	Slc5a7
+HMDB0000097	Choline	Slc22a1
+HMDB0000097	Choline	Slc44a4
+HMDB0000097	Choline	Slc44a2
+HMDB0000097	Choline	Slc44a3
+HMDB0001256	Spermine	Slc22a4
+HMDB0001256	Spermine	Slc22a1
+HMDB0001414	Putrescine	Slc22a4
+HMDB0000064	Creatine	Slc22a5
+HMDB0000243	Pyruvic acid	Slc16a3
+HMDB0000243	Pyruvic acid	Slc16a1
+HMDB0000243	Pyruvic acid	Slc16a2
+HMDB0000243	Pyruvic acid	Slc16a7
+HMDB0000243	Pyruvic acid	Slc16a10
+HMDB0000243	Pyruvic acid	Slco2a1
+HMDB0000094	Citric acid	Slco2b1
+HMDB0000187	L-Serine	Slc16a10
+HMDB0000574	L-Cysteine	Slc7a8
+HMDB0000574	L-Cysteine	Slc16a10
+HMDB0000696	L-Methionine	Slc16a10
+HMDB0000168	L-Asparagine	Slc1a5
+HMDB0000168	L-Asparagine	Slc38a3
+HMDB0000191	L-Aspartic acid	Slc16a10
+HMDB0000177	L-Histidine	Slc38a3
+HMDB0000177	L-Histidine	Slc16a10
+HMDB0000883	L-Valine	Slc16a10
+HMDB0000172	L-Isoleucine	Slc16a10
+HMDB0000062	L-Carnitine	Slco1b2
+HMDB0000062	L-Carnitine	Slc22a5
+HMDB0000062	L-Carnitine	Slc22a4
+HMDB0000062	L-Carnitine	Slc22a16
+HMDB0000167	L-Threonine	Slc16a10
+HMDB0001043	Arachidonic acid	Slc27a1
+HMDB0001043	Arachidonic acid	Slco2a1
+HMDB0000216	Norepinephrine	Slc22a5
+HMDB0000216	Norepinephrine	Slc6a2
+HMDB0000216	Norepinephrine	Slc22a1
+HMDB0000216	Norepinephrine	Slc22a2
+HMDB0000216	Norepinephrine	Slc22a3
+HMDB0000220	Palmitic acid	Slc27a1
+HMDB0000181	L-Dopa	Slc15a1
+HMDB0000181	L-Dopa	Slc16a10
+HMDB0000248	Thyroxine	Slco1c1
+HMDB0000248	Thyroxine	Slco1b2
+HMDB0000273	Thymidine	Slc22a1
+HMDB0000273	Thymidine	Slc28a3
+HMDB0000294	Urea	Slc14a2
+HMDB0000294	Urea	Slc14a1
+HMDB0000806	Myristic acid	Slc27a1
+HMDB0000827	Stearic acid	Slc27a1
+HMDB0000538	Adenosine triphosphate	Atp7b
+HMDB0000538	Adenosine triphosphate	Atp7a
+HMDB0000538	Adenosine triphosphate	Tap1
+HMDB0000131	Glycerol	Abcb1a
+HMDB0001852	all-trans-Retinoic acid	Crabp1
+HMDB0001852	all-trans-Retinoic acid	Crabp2
+HMDB0000063	Cortisol	Abcb1a
+HMDB0000063	Cortisol	Abcg2
+HMDB0000063	Cortisol	Slco1a5
+HMDB0001830	Progesterone	Abcc1
+HMDB0001830	Progesterone	Abcb11
+HMDB0001830	Progesterone	Abcb1a
+HMDB0001830	Progesterone	Slc10a1
+HMDB0001830	Progesterone	Slc22a1
+HMDB0001830	Progesterone	Slc22a2
+HMDB0001830	Progesterone	Slc22a3
+HMDB0000518	Chenodeoxycholic acid	Slco1b2
+HMDB0000518	Chenodeoxycholic acid	Slco1b2
+HMDB0000518	Chenodeoxycholic acid	Abcc3
+HMDB0000518	Chenodeoxycholic acid	Abcb11
+HMDB0000518	Chenodeoxycholic acid	Slc10a2
+HMDB0000518	Chenodeoxycholic acid	Slc10a1
+HMDB0000518	Chenodeoxycholic acid	Slco1a5
+HMDB0000518	Chenodeoxycholic acid	Slco4a1
+HMDB0000077	Dehydroepiandrosterone	Slco1b2
+HMDB0000077	Dehydroepiandrosterone	Slco1b2
+HMDB0000077	Dehydroepiandrosterone	Slc22a7
+HMDB0000588	Sodium	Slc22a5
+HMDB0000588	Sodium	Slc1a5
+HMDB0000588	Sodium	Slc6a2
+HMDB0000588	Sodium	Slc6a4
+HMDB0000588	Sodium	Slc29a1
+HMDB0000588	Sodium	Slc5a7
+HMDB0000588	Sodium	Slc7a8
+HMDB0000588	Sodium	Slc22a4
+HMDB0000588	Sodium	Slc10a2
+HMDB0000588	Sodium	Slc10a1
+HMDB0000588	Sodium	Slc22a16
+HMDB0000588	Sodium	Slc12a2
+HMDB0000588	Sodium	Slc4a4
+HMDB0000588	Sodium	Slc12a1
+HMDB0000588	Sodium	Slc38a3
+HMDB0000588	Sodium	Slc4a10
+HMDB0000588	Sodium	Slc4a7
+HMDB0000588	Sodium	Slc28a3
+HMDB0000588	Sodium	Slc16a10
+HMDB0000588	Sodium	Slc4a8
+HMDB0000588	Sodium	Slc4a5
+HMDB0000588	Sodium	Slc22a6
+HMDB0000588	Sodium	Slc22a7
+HMDB0000492	Chloride ion	Slc5a7
+HMDB0000492	Chloride ion	Slc12a5
+HMDB0000492	Chloride ion	Slc12a2
+HMDB0000492	Chloride ion	Slc12a1
+HMDB0000492	Chloride ion	Slc12a4
+HMDB0000492	Chloride ion	Slc12a6
+HMDB0000492	Chloride ion	Slc12a7
+HMDB0000492	Chloride ion	Slc4a10
+HMDB0000056	beta-Alanine	Slc16a10
+HMDB0001257	Spermidine	Slc22a4
+HMDB0001257	Spermidine	Slc22a1
+HMDB0001341	ADP	Atp7b
+HMDB0001341	ADP	Atp7a
+HMDB0000058	Cyclic AMP	Slc4a7
+HMDB0000058	Cyclic AMP	Abcc4
+HMDB0000058	Cyclic AMP	Abcc5
+HMDB0000058	Cyclic AMP	Slc22a6
+HMDB0000058	Cyclic AMP	Slco4c1
+HMDB0000058	Cyclic AMP	Slc22a7
+HMDB0000761	Lithocholic acid	Slco1b2
+HMDB0000761	Lithocholic acid	Slco1b2
+HMDB0000761	Lithocholic acid	Abcc3
+HMDB0000761	Lithocholic acid	Abcb11
+HMDB0000761	Lithocholic acid	Slc10a2
+HMDB0000761	Lithocholic acid	Slc10a1
+HMDB0000761	Lithocholic acid	Slco1a5
+HMDB0000761	Lithocholic acid	Slco4a1
+HMDB0001198	Leukotriene C4	Abcc1
+HMDB0015330	Tubocurarine	Slc22a1
+HMDB0001847	Caffeine	Abcb1a
+HMDB0001889	Theophylline	Slc22a7
+HMDB0014400	Diethylstilbestrol	Abcb1a
+HMDB0014400	Diethylstilbestrol	Abcg2
+HMDB0014372	Lovastatin	Slco1b2
+HMDB0014372	Lovastatin	Abcb1a
+HMDB0014372	Lovastatin	Slco1a5
+HMDB0015044	Quinidine	Slco1b2
+HMDB0015044	Quinidine	Slc22a5
+HMDB0015044	Quinidine	Abcc2
+HMDB0015044	Quinidine	Abcb11
+HMDB0015044	Quinidine	Abcb1a
+HMDB0015044	Quinidine	Slc22a4
+HMDB0015044	Quinidine	Slc22a1
+HMDB0015044	Quinidine	Slco1a5
+HMDB0015044	Quinidine	Slc22a2
+HMDB0015360	Paclitaxel	Abcc1
+HMDB0015360	Paclitaxel	Abcb11
+HMDB0015360	Paclitaxel	Abcb1a
